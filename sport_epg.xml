@@ -2532,10 +2532,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
     <title>BL: FC Bayern München - Bayer Leverkusen, tipico Topspiel der Woche, 9. Spieltag</title>
     <desc>Nicht zu stoppen: Die Bayern haben in der Liga noch kein Spiel verloren und sind seit Wochen in bestechender Form. Kann Leverkusen den FCB ärgern? Kommentar: Wolff Fuss.</desc>
   </programme>
-  <programme channel="blueSport2LiveUHD.ch" start="20251031110000 +0100" stop="20251031150000 +0100">
-    <title>blue Sport 2 Live D</title>
-    <desc> No Description Info</desc>
-  </programme>
   <programme channel="blueSport2LiveUHD.ch" start="20251031150000 +0100" stop="20251031190000 +0100">
     <title>blue Sport 2 Live D</title>
     <desc> No Description Info</desc>
@@ -2570,10 +2566,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
   </programme>
   <programme channel="blueSport2LiveUHD.ch" start="20251101201500 +0100" stop="20251102000000 +0100">
     <title>blue Sport 2 Live D</title>
-    <desc> No Description Info</desc>
-  </programme>
-  <programme channel="blueSport3LiveUHD.ch" start="20251031110000 +0100" stop="20251031150000 +0100">
-    <title>blue Sport 3 Live D</title>
     <desc> No Description Info</desc>
   </programme>
   <programme channel="blueSport3LiveUHD.ch" start="20251031150000 +0100" stop="20251031190000 +0100">
@@ -2611,10 +2603,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
   <programme channel="blueSport3LiveUHD.ch" start="20251101201500 +0100" stop="20251102000000 +0100">
     <title>blue Sport 3 Live D</title>
     <desc> No Description Info</desc>
-  </programme>
-  <programme channel="bbctwo.uk" start="20251031140000 +0100" stop="20251031144500 +0100">
-    <title>Impossible</title>
-    <desc>S8E25 - 25/30. The quiz show where players must avoid Impossible answers to stay in the competition. How many of today's players will survive to face the £10,000 question?</desc>
   </programme>
   <programme channel="bbctwo.uk" start="20251031144500 +0100" stop="20251031153000 +0100">
     <title>The Finish Line</title>
@@ -3208,18 +3196,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
     <title>Live NBA: Sacramento Kings @ Milwaukee Bucks</title>
     <desc>Spektakuläre Drei-Punkte-Würfe, Rebounds und Dunks: In der NBA zeigen Stars wie Stephen Curry, Nikola Jokic oder Dennis Schröder ihr Können. Wer führt sein Team zum großen Erfolg?</desc>
   </programme>
-  <programme channel="Sky Sport Premier League" start="20251031133000 +0100" stop="20251031143000 +0100">
-    <title>PL: 1 to 11 (Thomas Hitzelsberger)</title>
-    <desc>Wie sieht die perfekte Elf der Premier League aus? In "1</desc>
-  </programme>
-  <programme channel="Sky Sport Premier League" start="20251031143000 +0100" stop="20251031150000 +0100">
-    <title>PL: 90in30: BOU - NFO, 9. Spieltag</title>
-    <desc>90 Minuten in 30 Minuten: Das Topspiel der Premier League in komprimierter Form.</desc>
-  </programme>
-  <programme channel="Sky Sport Premier League" start="20251031150000 +0100" stop="20251031151500 +0100">
-    <title>Carabao Cup: Highlights XXL: Wolverhampton Wanderers - FC Chelsea, Achtelfinale</title>
-    <desc>Englischer Fußball in kompakter Form: Die Highlights aus den Partien des Carabao Cup.</desc>
-  </programme>
   <programme channel="Sky Sport Premier League" start="20251031151500 +0100" stop="20251031153000 +0100">
     <title>Carabao Cup: Highlights XXL: Newcastle United - Tottenham Hotspur, Achtelfinale</title>
     <desc>Englischer Fußball in kompakter Form: Die Highlights aus den Partien des Carabao Cup.</desc>
@@ -3387,10 +3363,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
   <programme channel="Sky Sport Premier League" start="20251101233000 +0100" stop="20251102013000 +0100">
     <title>PL: Brighton &amp; Hove Albion - Leeds United, 10. Spieltag</title>
     <desc>Wiedergutmachung: Die "Seagulls" kassierten vier Tore gegen Manchester United und belegen den 13. Tabellenplatz. Folgt der Heimsieg gegen Leeds? Kommentar: Timo Schäfers.</desc>
-  </programme>
-  <programme channel="Sky Sport Mix" start="20251031140000 +0100" stop="20251031150000 +0100">
-    <title>NHL: On the Fly</title>
-    <desc>Nordamerikanisches Eishockey der Extraklasse: Atemberaubende Treffer, spektakuläre Saves und Analysen von namhaften Experten - Das NHL-Format "NHL:</desc>
   </programme>
   <programme channel="Sky Sport Mix" start="20251031150000 +0100" stop="20251031153000 +0100">
     <title>NBA: On Fire</title>
@@ -3861,14 +3833,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
     <title>Fussball: Swansea City - Manchester City</title>
     <desc>Manchester City TV - EFL Cup 4. Runde.</desc>
   </programme>
-  <programme channel="bluesportd1.ch" start="20251031120500 +0100" stop="20251031145000 +0100">
-    <title>Fussball: FC Lugano - FC Luzern</title>
-    <desc>Brack Super League, 11. Spieltag - Deutsch/Italiano</desc>
-  </programme>
-  <programme channel="bluesportd1.ch" start="20251031145000 +0100" stop="20251031151000 +0100">
-    <title>Fussball: Alle Spiele, alle Tore - Brack Super League</title>
-    <desc>Brack Super League, 11. Spieltag</desc>
-  </programme>
   <programme channel="bluesportd1.ch" start="20251031151000 +0100" stop="20251031175500 +0100">
     <title>Fussball: Grasshopper Club Zürich - BSC Young Boys</title>
     <desc>Brack Super League, 11. Spieltag - Deutsch/Italiano</desc>
@@ -3997,10 +3961,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
     <title>Football Nation</title>
     <desc>Folge 15 - Saudi-Arabien - Es gibt keine grössere Leidenschaft im Fussball als die für unsere Nationalmannschaft. Wir feiern die Folklore, die Helden, die Triumphe und die Kultur der einflussreichsten Fussballnationen.</desc>
   </programme>
-  <programme channel="bluesport1.ch" start="20251031110000 +0100" stop="20251031150000 +0100">
-    <title>blue Sport 1 Live</title>
-    <desc> No Description Info</desc>
-  </programme>
   <programme channel="bluesport1.ch" start="20251031150000 +0100" stop="20251031190000 +0100">
     <title>blue Sport 1 Live</title>
     <desc> No Description Info</desc>
@@ -4123,10 +4083,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
   </programme>
   <programme channel="bluesport3.ch" start="20251101201500 +0100" stop="20251102000000 +0100">
     <title>blue Sport 3 Live</title>
-    <desc> No Description Info</desc>
-  </programme>
-  <programme channel="bluesport4.ch" start="20251031110000 +0100" stop="20251031150000 +0100">
-    <title>blue Sport 4 Live</title>
     <desc> No Description Info</desc>
   </programme>
   <programme channel="bluesport4.ch" start="20251031150000 +0100" stop="20251031190000 +0100">
@@ -4279,10 +4235,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
   </programme>
   <programme channel="bluesport8.ch" start="20251101230000 +0100" stop="20251102030000 +0100">
     <title>blue Sport 8 Live</title>
-    <desc> No Description Info</desc>
-  </programme>
-  <programme channel="bluesport9.ch" start="20251031110000 +0100" stop="20251031150000 +0100">
-    <title>blue Sport 9 Live</title>
     <desc> No Description Info</desc>
   </programme>
   <programme channel="bluesport9.ch" start="20251031150000 +0100" stop="20251031190000 +0100">
@@ -4689,14 +4641,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
     <title>myTeamTV: Momentan kein Programm</title>
     <desc>Momentan kein Programm.</desc>
   </programme>
-  <programme channel="SportdigitalFussball2.de" start="20251031123000 +0100" stop="20251031143000 +0100">
-    <title>Benfica Lissabon - FC Arouca</title>
-    <desc>Primeira Liga (9. Spieltag): Benfica Lissabon - FC Arouca.</desc>
-  </programme>
-  <programme channel="SportdigitalFussball2.de" start="20251031143000 +0100" stop="20251031150000 +0100">
-    <title>scooore Portugal! Alle Tore</title>
-    <desc>Highlights Primeira Liga (9. Spieltag): scooore Portugal! Alle Tore.</desc>
-  </programme>
   <programme channel="SportdigitalFussball2.de" start="20251031150000 +0100" stop="20251031153000 +0100">
     <title>90in30: Spitzenspiel</title>
     <desc>Internationaler Fussball: 90in30: Spitzenspiel.</desc>
@@ -4881,10 +4825,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
     <title>Macarthur FC - Western Sydney Wanderers</title>
     <desc>A-League (3. Spieltag).</desc>
   </programme>
-  <programme channel="TNT Sports 2 HD" start="20251031134500 +0100" stop="20251031144500 +0100">
-    <title>Serie A Football. Atalanta v AC Milan.</title>
-    <desc>Action from the Serie A showdown between Atalanta and AC Milan. | Atalanta v AC Milan | Category: Football (29/10/2025)</desc>
-  </programme>
   <programme channel="TNT Sports 2 HD" start="20251031144500 +0100" stop="20251031160000 +0100">
     <title>TNT Sports Films. Playing For Our Future.</title>
     <desc>What does the future hold for sport in the battle against global warming? Reshmin Chowdhury meets people at all levels to discuss how sport can be a positive force for change. | Series 2 Episode 53: Playing For Our Future | Category: Documentary (01/04/2025)</desc>
@@ -4988,10 +4928,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
   <programme channel="TNT Sports 2 HD" start="20251101233000 +0100" stop="20251102010000 +0100">
     <title>TNT Sports Original. Lions Uncut: Australia 2025.</title>
     <desc>A behind-the-scenes documentary that captures every triumph, heartbreak, and unfiltered moment of the British and Irish Lions' 2025 rugby tour to Australia. | Series 2 Episode 67: Lions Uncut: Australia 2025 | Category: Documentary (31/10/2025)</desc>
-  </programme>
-  <programme channel="TNT Sports 3 HD" start="20251031140000 +0100" stop="20251031150000 +0100">
-    <title>The Autumn Nations Rugby Show.</title>
-    <desc>Жанр: sports show,rugby. Страна: GB. 2025, S.25,Ep.1 [11+]...Join the Quilter Nations Rugby Show experts for insight and tips ahead of the opening weekend of fixtures, featuring England v Australia and Scotland v USA В ролях: Craig Doyle.</desc>
   </programme>
   <programme channel="TNT Sports 3 HD" start="20251031150000 +0100" stop="20251031160000 +0100">
     <title>Autumn Nations Series. Ireland v Fiji.</title>
@@ -5232,10 +5168,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
   <programme channel="DAZN 1" start="20251101233500 +0100" stop="20251102000000 +0100">
     <title>Best of DAZN: Highlights</title>
     <desc>Highlights - Bei "Best</desc>
-  </programme>
-  <programme channel="DAZN 2" start="20251031133000 +0100" stop="20251031152000 +0100">
-    <title>Bundesliga: Bayer 04 Leverkusen - SC Freiburg</title>
-    <desc>Bundesliga: Bayer 04 Leverkusen - SC Freiburg</desc>
   </programme>
   <programme channel="DAZN 2" start="20251031152000 +0100" stop="20251031160000 +0100">
     <title>Best of DAZN: Highlights</title>
@@ -5610,9 +5542,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
     <title>Futbol Gecesi</title>
     <desc>Süper Lig heyecanı TRT Spor'da yaşanıyor. Maçların özet görüntüleri, değerlendirmeler ve canlı bağlantılar Futbol Gecesi'nde ekranlarınıza geliyor.</desc>
   </programme>
-  <programme channel="6565b99ddc743406d378a8c3688c131d" start="20251031131500 +0100" stop="20251031151500 +0100">
-    <title>Real Madrid-Manresa ''Tekrar''</title>
-  </programme>
   <programme channel="6565b99ddc743406d378a8c3688c131d" start="20251031151500 +0100" stop="20251031163000 +0100">
     <title>90'lar Futbol Smart "Tekrar"</title>
   </programme>
@@ -5771,10 +5700,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
     <title>Futbol Gecesi</title>
     <desc>Süper Lig heyecanı TRT Spor'da yaşanıyor. Maçların özet görüntüleri, değerlendirmeler ve canlı bağlantılar Futbol Gecesi'nde ekranlarınıza geliyor.</desc>
   </programme>
-  <programme channel="ssport.tr" start="20251031130000 +0100" stop="20251031150000 +0100">
-    <title>Euroleague</title>
-    <desc>Özetler.</desc>
-  </programme>
   <programme channel="ssport.tr" start="20251031150000 +0100" stop="20251031170000 +0100">
     <title>NBA</title>
     <desc>Sezon Maçları.</desc>
@@ -5879,10 +5804,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
     <title>Euroleague</title>
     <desc>Özetler.</desc>
   </programme>
-  <programme channel="ssport2.tr" start="20251031133000 +0100" stop="20251031150000 +0100">
-    <title>E1 World Championship</title>
-    <desc>Lagos.</desc>
-  </programme>
   <programme channel="ssport2.tr" start="20251031150000 +0100" stop="20251031153000 +0100">
     <title>Worlds Strongest Man</title>
     <desc> No Description Info</desc>
@@ -5986,10 +5907,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
   <programme channel="ssport2.tr" start="20251101230000 +0100" stop="20251102000000 +0100">
     <title>Probull Riders</title>
     <desc> No Description Info</desc>
-  </programme>
-  <programme channel="canal+sport3.pl" start="20251031141500 +0100" stop="20251031151500 +0100">
-    <title>Ekstrapaka</title>
-    <desc>Autorzy przedstawiają skróty wszystkich meczów ostatniej kolejki PKO BP Ekstraklasy, w której występuje osiemnaście klubów. Widzowie mogą obejrzeć najciekawsze akcje, bramki i sytuacje kontrowersyjne.</desc>
   </programme>
   <programme channel="canal+sport3.pl" start="20251031151500 +0100" stop="20251031172500 +0100">
     <title>Odprawa przedmeczowa</title>
@@ -6551,14 +6468,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
     <title>Legendy LaLiga - Michael Laudrup</title>
     <desc>Autorzy programu prezentują sylwetki najlepszych piłkarzy w historii Primera Division.</desc>
   </programme>
-  <programme channel="elevensports4.pl" start="20251031140000 +0100" stop="20251031143000 +0100">
-    <title>Ligue 1 Show</title>
-    <desc>Autorzy przedstawiają skróty meczów kolejki najwyższej klasy rozgrywkowej ligi francuskiej oraz bramki.</desc>
-  </programme>
-  <programme channel="elevensports4.pl" start="20251031143000 +0100" stop="20251031150000 +0100">
-    <title>Ligue 1 Preview</title>
-    <desc>W programie zapowiedź meczów kolejki francuskiej ekstraklasy w piłce nożnej mężczyzn.</desc>
-  </programme>
   <programme channel="elevensports4.pl" start="20251031150000 +0100" stop="20251031153000 +0100">
     <title>Bundesliga Weekly</title>
     <desc>Magazyn poświęcony jednej z najlepszych lig świata - niemieckiej Bundeslidze.</desc>
@@ -6887,10 +6796,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
     <title>Eredivisie - Feyenoord - FC Volendam ᴸᶦᵛᵉ</title>
     <desc>Transmisja ze stadionu Feijenoord w Rotterdamie, Niderlandy.</desc>
   </programme>
-  <programme channel="polsatsportpremium2.pl" start="20251031130000 +0100" stop="20251031143000 +0100">
-    <title>Piłka nożna: Liga Europy UEFA - mecz: Go Ahead Eagles - Aston Villa FC</title>
-    <desc> No Description Info</desc>
-  </programme>
   <programme channel="polsatsportpremium2.pl" start="20251031143000 +0100" stop="20251031160000 +0100">
     <title>Piłka nożna: Liga Europy UEFA - mecz: Feyenoord Rotterdam - Panathinaikos AO</title>
     <desc> No Description Info</desc>
@@ -6970,10 +6875,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
   <programme channel="polsatsportpremium2.pl" start="20251101230000 +0100" stop="20251102000000 +0100">
     <title>Magazyn olimpijski</title>
     <desc>Raport z przygotowań do igrzysk. Jerzy Mielewski i Aleksandra Szutenberg rozmawiają z gośćmi m.in. o szansach medalowych Polaków. Reporterzy przedstawiają ciekawostki związane z olimpiadą.</desc>
-  </programme>
-  <programme channel="polsatsportpremium3.pl" start="20251031130000 +0100" stop="20251031150000 +0100">
-    <title>Piłka nożna kobiet: Liga Narodów - rewanżowy półfinałowy mecz barażowy: Francja - Niemcy</title>
-    <desc> No Description Info</desc>
   </programme>
   <programme channel="polsatsportpremium3.pl" start="20251031150000 +0100" stop="20251031170000 +0100">
     <title>Piłka nożna: Liga włoska - mecz: Inter Mediolan - ACF Fiorentina</title>
@@ -7151,14 +7052,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
     <title>Kanalpause</title>
     <desc>Kanalen sendes for øyeblikket ikke.</desc>
   </programme>
-  <programme channel="canal11.pt" start="20251031141500 +0100" stop="20251031151500 +0100">
-    <title>Sair A Jogar: Vice-Presidente SAD Afs - Miguel Socorro</title>
-    <desc>S5E6 - Programa informativo de entrevista com protagonistas do futebol profissional português, numa viagem por todos os clubes da I e II Ligas.</desc>
-  </programme>
-  <programme channel="canal11.pt" start="20251031151500 +0100" stop="20251031153000 +0100">
-    <title>Liga Placard Futsal 2025-26 - 6ª Jornada - Compacto</title>
-    <desc>S2E6 - Transmissão do jogo de Futsal.</desc>
-  </programme>
   <programme channel="canal11.pt" start="20251031153000 +0100" stop="20251031160000 +0100">
     <title>Portugal no Mundo (Magazine)</title>
     <desc>S3E6</desc>
@@ -7286,10 +7179,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
   <programme channel="canal11.pt" start="20251101215500 +0100" stop="20251102000000 +0100">
     <title>Brasileirão 2025 - Mirassol x Botafogo (Direto)</title>
     <desc> No Description Info</desc>
-  </programme>
-  <programme channel="sporttv.pt" start="20251031140000 +0100" stop="20251031150000 +0100">
-    <title>GP Malásia</title>
-    <desc>MotoGP é a prova rainha do motociclismo mundial, reúne a elite mundial dos melhores pilotos mundiais.</desc>
   </programme>
   <programme channel="sporttv.pt" start="20251031150000 +0100" stop="20251031160000 +0100">
     <title>Automobilismo</title>
@@ -7671,14 +7560,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
     <title>Atletismo: Uk Challenge - Inglaterra</title>
     <desc> No Description Info</desc>
   </programme>
-  <programme channel="primasport4.ro" start="20251031130000 +0100" stop="20251031150000 +0100">
-    <title>Hamburg – U Cluj</title>
-    <desc> No Description Info</desc>
-  </programme>
-  <programme channel="primasport4.ro" start="20251031150000 +0100" stop="20251031151500 +0100">
-    <title>Știrile Prima Sport</title>
-    <desc> No Description Info</desc>
-  </programme>
   <programme channel="primasport4.ro" start="20251031151500 +0100" stop="20251031154500 +0100">
     <title>Inside Serie A</title>
     <desc> No Description Info</desc>
@@ -7919,10 +7800,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
     <title>Al Nassr – Al Fayha - Meci Fotbal Arabia Saudita</title>
     <desc> No Description Info</desc>
   </programme>
-  <programme channel="primasport2.ro" start="20251031133000 +0100" stop="20251031153000 +0100">
-    <title>Dumbrăvița – Rapid</title>
-    <desc> No Description Info</desc>
-  </programme>
   <programme channel="primasport2.ro" start="20251031153000 +0100" stop="20251031154500 +0100">
     <title>ȘTIRILE PRIMA SPORT</title>
     <desc> No Description Info</desc>
@@ -8059,10 +7936,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
     <title>Bayern Munchen – Leverkusen</title>
     <desc> No Description Info</desc>
   </programme>
-  <programme channel="digisport4.ro" start="20251031130000 +0100" stop="20251031150000 +0100">
-    <title>Live Tenis</title>
-    <desc> No Description Info</desc>
-  </programme>
   <programme channel="digisport4.ro" start="20251031150000 +0100" stop="20251031170000 +0100">
     <title>Live Tenis</title>
     <desc> No Description Info</desc>
@@ -8173,14 +8046,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
   </programme>
   <programme channel="digisport4.ro" start="20251101233000 +0100" stop="20251102000000 +0100">
     <title>Bundesliga: Special Episodul 6</title>
-    <desc> No Description Info</desc>
-  </programme>
-  <programme channel="digisport3.ro" start="20251031140000 +0100" stop="20251031150000 +0100">
-    <title>Bundesliga: Rezumat Etapa 8</title>
-    <desc> No Description Info</desc>
-  </programme>
-  <programme channel="digisport3.ro" start="20251031150000 +0100" stop="20251031153000 +0100">
-    <title>Stirile Digi Sport</title>
     <desc> No Description Info</desc>
   </programme>
   <programme channel="digisport3.ro" start="20251031153000 +0100" stop="20251031163000 +0100">
@@ -8387,10 +8252,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
     <title>Premiera Serie A: Napoli-Como Etapa 10</title>
     <desc> No Description Info</desc>
   </programme>
-  <programme channel="digisport2.ro" start="20251031140000 +0100" stop="20251031150000 +0100">
-    <title>LIVE Tenis Sferturi</title>
-    <desc> No Description Info</desc>
-  </programme>
   <programme channel="digisport2.ro" start="20251031150000 +0100" stop="20251031170000 +0100">
     <title>LIVE Tenis Sferturi</title>
     <desc> No Description Info</desc>
@@ -8469,10 +8330,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
   </programme>
   <programme channel="digisport2.ro" start="20251101230000 +0100" stop="20251102010000 +0100">
     <title>Premiera Tenis: WTA Finals Ziua 1</title>
-    <desc> No Description Info</desc>
-  </programme>
-  <programme channel="digisport2.ro" start="20251031140000 +0100" stop="20251031150000 +0100">
-    <title>LIVE Tenis Sferturi</title>
     <desc> No Description Info</desc>
   </programme>
   <programme channel="digisport2.ro" start="20251031150000 +0100" stop="20251031170000 +0100">
@@ -8935,10 +8792,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
     <title>Al Nassr – Al Fayha</title>
     <desc> No Description Info</desc>
   </programme>
-  <programme channel="bbc2.uk" start="20251031144500 +0100" stop="20251031153000 +0100">
-    <title>The Finish Line</title>
-    <desc>Roman Kemp hosts this quiz show with sidekick Sarah Greene. The contestants race on moving podiums across the studio floor to try to win £5,000.</desc>
-  </programme>
   <programme channel="bbc2.uk" start="20251031153000 +0100" stop="20251031161500 +0100">
     <title>Unbeatable</title>
     <desc>Jason Manford hosts the quiz show where players face a question and pick from a board of six rankable answers. Some answers are good, but only one is Unbeatable.</desc>
@@ -9102,10 +8955,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
   <programme channel="bbc2.uk" start="20251101232000 +0100" stop="20251102002000 +0100">
     <title>Girlbands Forever</title>
     <desc>In the new millennium, as the girl bands of the 90s split, new bands Atomic Kitten and Mis-Teeq vie for success. How will the next generation deal with life in the spotlight.</desc>
-  </programme>
-  <programme channel="bbctwowales.uk" start="20251031144500 +0100" stop="20251031153000 +0100">
-    <title>The Finish Line</title>
-    <desc>Roman Kemp hosts this quiz show with sidekick Sarah Greene. The contestants race on moving podiums across the studio floor to try to win £5,000.</desc>
   </programme>
   <programme channel="bbctwowales.uk" start="20251031153000 +0100" stop="20251031161500 +0100">
     <title>Unbeatable</title>
@@ -9271,10 +9120,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
     <title>Girlbands Forever</title>
     <desc>In the new millennium, as the girl bands of the 90s split, new bands Atomic Kitten and Mis-Teeq vie for success. How will the next generation deal with life in the spotlight.</desc>
   </programme>
-  <programme channel="skysportspremierleague.uk" start="20251031140000 +0100" stop="20251031150000 +0100">
-    <title>Total Football</title>
-    <desc>S2025E73 - Get the definitive take from the managers and players themselves, with live press conferences, interviews and the biggest headlines ahead of the weekend to come.</desc>
-  </programme>
   <programme channel="skysportspremierleague.uk" start="20251031150000 +0100" stop="20251031160000 +0100">
     <title>Total Football</title>
     <desc>S2025E73 - Get the definitive take from the managers and players themselves, with live press conferences, interviews and the biggest headlines ahead of the weekend to come.</desc>
@@ -9442,18 +9287,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
   <programme channel="skysportspremierleague.uk" start="20251101233000 +0100" stop="20251102000000 +0100">
     <title>PL: Nott'm Forest v Man Utd Hlts</title>
     <desc>S2025E321 - Sean Dyche takes charge of his first Premier League home game at Nottingham Forest with Manchester United the visitors. Ruben Amorim's men target a fourth consecutive league win. (01.11)</desc>
-  </programme>
-  <programme channel="skysportsfootball.uk" start="20251031143000 +0100" stop="20251031150000 +0100">
-    <title>EFL League Two Goals</title>
-    <desc>A round-up of the Sky Bet League Two goals from the latest batch of fixtures during the 2025-26 season.</desc>
-  </programme>
-  <programme channel="skysportsfootball.uk" start="20251031150000 +0100" stop="20251031151500 +0100">
-    <title>SPFL Round-Up</title>
-    <desc>S11E10 - A round-up of the goals from the latest weekend of Scottish Premiership action during the 2025-26 season.</desc>
-  </programme>
-  <programme channel="skysportsfootball.uk" start="20251031151500 +0100" stop="20251031153000 +0100">
-    <title>SPFL 25/26: Hibernian v Rangers</title>
-    <desc>Easter Road is the venue for this Scottish Premiership contest between hosts Hibs and a visiting Rangers. Danny Rohl started life at Ibrox with a win at the weekend. (29.10)</desc>
   </programme>
   <programme channel="skysportsfootball.uk" start="20251031153000 +0100" stop="20251031160000 +0100">
     <title>EFL Cup Round 4 Highlights</title>
@@ -9663,18 +9496,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
     <title>EFL 25/26: West Brom v Sheff Weds</title>
     <desc>West Brom and Sheffield Wednesday go toe to toe in the Sky Bet Championship. Having been handed a 12-point deduction, can the Owls earn their second win of the season? (01.11)</desc>
   </programme>
-  <programme channel="skysportsfootball.uk" start="20251031143000 +0100" stop="20251031150000 +0100">
-    <title>EFL League Two Goals</title>
-    <desc>A round-up of the Sky Bet League Two goals from the latest batch of fixtures during the 2025-26 season.</desc>
-  </programme>
-  <programme channel="skysportsfootball.uk" start="20251031150000 +0100" stop="20251031151500 +0100">
-    <title>SPFL Round-Up</title>
-    <desc>S11E10 - A round-up of the goals from the latest weekend of Scottish Premiership action during the 2025-26 season.</desc>
-  </programme>
-  <programme channel="skysportsfootball.uk" start="20251031151500 +0100" stop="20251031153000 +0100">
-    <title>SPFL 25/26: Hibernian v Rangers</title>
-    <desc>Easter Road is the venue for this Scottish Premiership contest between hosts Hibs and a visiting Rangers. Danny Rohl started life at Ibrox with a win at the weekend. (29.10)</desc>
-  </programme>
   <programme channel="skysportsfootball.uk" start="20251031153000 +0100" stop="20251031160000 +0100">
     <title>EFL Cup Round 4 Highlights</title>
     <desc>Wrexham and Cardiff meet for the first time since a 2004 FAW Premier Cup semi-final as the Welsh clubs contest a fourth-round tie in the Carabao Cup at the Stok Cae Ras. (28.10)</desc>
@@ -9883,10 +9704,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
     <title>EFL 25/26: West Brom v Sheff Weds</title>
     <desc>West Brom and Sheffield Wednesday go toe to toe in the Sky Bet Championship. Having been handed a 12-point deduction, can the Owls earn their second win of the season? (01.11)</desc>
   </programme>
-  <programme channel="skysportspremierleague.uk" start="20251031140000 +0100" stop="20251031150000 +0100">
-    <title>Total Football</title>
-    <desc>S2025E73 - Get the definitive take from the managers and players themselves, with live press conferences, interviews and the biggest headlines ahead of the weekend to come.</desc>
-  </programme>
   <programme channel="skysportspremierleague.uk" start="20251031150000 +0100" stop="20251031160000 +0100">
     <title>Total Football</title>
     <desc>S2025E73 - Get the definitive take from the managers and players themselves, with live press conferences, interviews and the biggest headlines ahead of the weekend to come.</desc>
@@ -10054,10 +9871,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
   <programme channel="skysportspremierleague.uk" start="20251101233000 +0100" stop="20251102000000 +0100">
     <title>PL: Nott'm Forest v Man Utd Hlts</title>
     <desc>S2025E321 - Sean Dyche takes charge of his first Premier League home game at Nottingham Forest with Manchester United the visitors. Ruben Amorim's men target a fourth consecutive league win. (01.11)</desc>
-  </programme>
-  <programme channel="fox.nl" start="20251031140000 +0100" stop="20251031145500 +0100">
-    <title>Below Deck Sailing Yacht</title>
-    <desc>Een stel komt aan boord met vrienden en verwacht een vijfsterren-ervaring. Als Emma fouten maakt met de lijnen en Diana kortaf doet als er om een cocktail gevraagd wordt, zijn de gasten ontevreden.</desc>
   </programme>
   <programme channel="fox.nl" start="20251031145500 +0100" stop="20251031155500 +0100">
     <title>Below Deck Sailing Yacht</title>
@@ -10419,10 +10232,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
     <title>Golden League Handbal Mannen Hoogtepunten</title>
     <desc>Samenvatting van de wedstrijd Denemarken - Nederland, gespeeld in de Golden League 2025 in Noorwegen.</desc>
   </programme>
-  <programme channel="ziggosportvoetbal.nl" start="20251031132500 +0100" stop="20251031151000 +0100">
-    <title>Serie A</title>
-    <desc>Verslag van de wedstrijd Juventus - Udinese, gespeeld in de Italiaanse Serie A.</desc>
-  </programme>
   <programme channel="ziggosportvoetbal.nl" start="20251031151000 +0100" stop="20251031162500 +0100">
     <title>KICK 't MET</title>
     <desc>Jurriën en Quinten Timber zijn te gast samen met vrienden Defano en Yuki. De heren hebben het over het kampioenschap van Feyenoord, jeugd in Utrecht, het leven buiten het veld en hun liefde voor NBA.</desc>
@@ -10534,10 +10343,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
   <programme channel="ziggosportvoetbal.nl" start="20251101225000 +0100" stop="20251102000000 +0100">
     <title>KICK 't MET</title>
     <desc>Jurriën en Quinten Timber zijn te gast samen met vrienden Defano en Yuki. De heren hebben het over het kampioenschap van Feyenoord, jeugd in Utrecht, het leven buiten het veld en hun liefde voor NBA.</desc>
-  </programme>
-  <programme channel="ziggosportgolf.nl" start="20251031143500 +0100" stop="20251031153000 +0100">
-    <title>IMSA WeatherTech SportsCar Championship Hoogtepunten</title>
-    <desc>Hoogtepunten van de Motul Petit Le Mans, gereden op het Michelin Raceway Road Atlanta in de IMSA WeatherTech SportsCar Championship.</desc>
   </programme>
   <programme channel="ziggosportgolf.nl" start="20251031153000 +0100" stop="20251031163000 +0100">
     <title>DTM Hoogtepunten</title>
@@ -10671,18 +10476,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
     <title>IMSA WeatherTech SportsCar Championship Hoogtepunten</title>
     <desc>Hoogtepunten van de Motul Petit Le Mans, gereden op het Michelin Raceway Road Atlanta in de IMSA WeatherTech SportsCar Championship.</desc>
   </programme>
-  <programme channel="espn.nl" start="20251031140000 +0100" stop="20251031144500 +0100">
-    <title>Tekengeld</title>
-    <desc>In deze podcast bespeekt Yordi Yamali met een gast alles over de wereld van in- en uitgaande transfers, makelaars en alle andere ontwikkelingen in het voetbal.</desc>
-  </programme>
-  <programme channel="espn.nl" start="20251031144500 +0100" stop="20251031150000 +0100">
-    <title>Copa Libertadores Hoogtepunten</title>
-    <desc>Samenvatting van de wedstrijd Palmeiras - LDU Quito, gespeeld in de halve finale van de Copa Libertadores 2025.</desc>
-  </programme>
-  <programme channel="espn.nl" start="20251031150000 +0100" stop="20251031153000 +0100">
-    <title>ESPN Fantasy Voetbal Show</title>
-    <desc>De Fantasy Voetbal Show is hét programma over het leukste voetbalmanager-spel rondom de VriendenLoterij Eredivisie. Kijk wekelijks voor de beste tips, strategieën en verborgen pareltjes voor ESPN Fantasy Voetbal.</desc>
-  </programme>
   <programme channel="espn.nl" start="20251031153000 +0100" stop="20251031170000 +0100">
     <title>Eurojackpot KNVB Beker Highlights</title>
     <desc>Hoogtepunten van de afgelopen ronde in de Eurojackpot KNVB Beker.</desc>
@@ -10798,14 +10591,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
   <programme channel="espn.nl" start="20251101233000 +0100" stop="20251102003000 +0100">
     <title>ESPN Vandaag</title>
     <desc>Een round-up van de dag met het belangrijkste en opvallendste (inter)nationale sportnieuws.</desc>
-  </programme>
-  <programme channel="espn2.nl" start="20251031143000 +0100" stop="20251031144500 +0100">
-    <title>ESPN Top 25 Goals</title>
-    <desc>De 25 mooiste goals van afgelopen week uit alle competities die op ESPN worden uitgezonden.</desc>
-  </programme>
-  <programme channel="espn2.nl" start="20251031144500 +0100" stop="20251031150000 +0100">
-    <title>Eurojackpot KNVB Beker Hoogtepunten</title>
-    <desc>Samenvatting van de wedstrijd Sparta Rotterdam - FC Groningen uit de 1e ronde van de Eurojackpot KNVB Beker.</desc>
   </programme>
   <programme channel="espn2.nl" start="20251031150000 +0100" stop="20251031164500 +0100">
     <title>Copa Libertadores</title>
@@ -10962,10 +10747,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
   <programme channel="espn2.nl" start="20251101233000 +0100" stop="20251102000000 +0100">
     <title>NHL On The Fly</title>
     <desc>Na iedere speeldag in de NHL zie je in On the Fly de hoogtepunten van alle wedstrijden.</desc>
-  </programme>
-  <programme channel="espn3.nl" start="20251031141500 +0100" stop="20251031150000 +0100">
-    <title>SportsCenter</title>
-    <desc>Dagelijks nieuwsprogramma van ESPN waarin de belangrijkste zaken uit de sportwereld voorbij komen.</desc>
   </programme>
   <programme channel="espn3.nl" start="20251031150000 +0100" stop="20251031164500 +0100">
     <title>Eurojackpot KNVB Beker</title>
@@ -11174,10 +10955,6 @@ Wie sieht Ihr Wochenende aus? Verraten Sie es uns per Mail an studio@bayern1.de 
   <programme channel="espn3.nl" start="20251101220000 +0100" stop="20251102003000 +0100">
     <title>NBA</title>
     <desc>Verslag van de wedstrijd Milwaukee Bucks - Sacramento Kings, gespeeld in de NBA.</desc>
-  </programme>
-  <programme channel="espn4.nl" start="20251031143000 +0100" stop="20251031150000 +0100">
-    <title>Pardon the Interruption</title>
-    <desc>Tony Kornheiser en Michael Wilbon bespreken en bediscussiëren de headlines van de dag in de sport.</desc>
   </programme>
   <programme channel="espn4.nl" start="20251031150000 +0100" stop="20251031170000 +0100">
     <title>First Take</title>
@@ -11478,10 +11255,6 @@ Afl. 331:. De driedelige documenaire Berlusconi - Condemned to Win vertelt het v
     <desc>Live uitzendingen van ESPN rondom speciale wedstrijden of gebeurtenissen in de sport.
 Afl. 199:. Live uitzendingen van ESPN omtrent wedstrijden uit de Vriendenloterij Eredivisie.</desc>
   </programme>
-  <programme channel="tv3+.dk" start="20251031140000 +0100" stop="20251031150000 +0100">
-    <title>NCIS - Sæsonafslutning - Rendezvous</title>
-    <desc>S14E24 - Gibbs, McGee og Torres rejser til et fjernt område i Paraguay, kontrolleret af en gruppe voldelige rebeller, i et forsøg på at lokalisere en savnet frømand, der er forsvundet under en uautoriseret tur.</desc>
-  </programme>
   <programme channel="tv3+.dk" start="20251031150000 +0100" stop="20251031160500 +0100">
     <title>NCIS - House Divided</title>
     <desc>S15E1 - Det er to måneder siden Gibbs og McGee sidst blev set i kamp mod en gruppe oprørere i Paraguays jungle, og NCIS-holdet leder stadig intensivt efter de forsvundne kolleger.</desc>
@@ -11590,10 +11363,6 @@ Afl. 199:. Live uitzendingen van ESPN omtrent wedstrijden uit de Vriendenloterij
     <title>Once Upon a Time in Mexico</title>
     <desc>En narkobagmand forbereder et kup mod den mexicanske præsident. En amoralsk CIA-agent vil forhindre det. Ikke for at redde præsidenten, men for at sikre sig en mindre formue midt i forvirringen. Han tager kontakt til den legendariske revolvermand El Mariachi, spillemanden, der skjuler alverdens skydevåben i sin guitarkasse.</desc>
   </programme>
-  <programme channel="tv3max.dk" start="20251031140000 +0100" stop="20251031150000 +0100">
-    <title>Paranormal Caught on Camera</title>
-    <desc>S4E2 - Eksperter analyserer og kommenterer brugerindsendte videoer af uforklarlige fænomener, herunder spøgelser, kryptider og UFO'er. Cano</desc>
-  </programme>
   <programme channel="tv3max.dk" start="20251031150000 +0100" stop="20251031160000 +0100">
     <title>Paranormal Caught on Camera</title>
     <desc>S4E3 - Eksperter analyserer og kommenterer brugerindsendte videoer af uforklarlige fænomener, herunder spøgelser, kryptider og UFO'er. Cano</desc>
@@ -11697,14 +11466,6 @@ Afl. 199:. Live uitzendingen van ESPN omtrent wedstrijden uit de Vriendenloterij
   <programme channel="tv3max.dk" start="20251101220000 +0100" stop="20251102000000 +0100">
     <title>Premier League: Nottingham Forest - Manchester United</title>
     <desc>S2025E76 - Tiende runde i Premier League spilles på legendariske City Ground, hvor Nottingham Forest tager imod Manchester United. Begge hold har haft en ujævn start, og pointene er dyre. Forvent en tæt og intens kamp med masser på spil!</desc>
-  </programme>
-  <programme channel="see.dk" start="20251031143000 +0100" stop="20251031150500 +0100">
-    <title>Rap fyr i L.A. - Grumpy Young Men</title>
-    <desc>S5E4 - Will kommer endelig på date med Valerie, hans drømmepige. Men da Will er nødt til at dobbelt date, bliver han sur, da han opdager, at Valerie er mere interesseret i Carlton end ham.</desc>
-  </programme>
-  <programme channel="see.dk" start="20251031150500 +0100" stop="20251031153500 +0100">
-    <title>Rap fyr i L.A. - Fresh Prince: The Movie</title>
-    <desc>S5E5 - Will bliver sendt ud på bøhlandet i Alabama som led i FBI's vidnebeskyttelsesprogram.</desc>
   </programme>
   <programme channel="see.dk" start="20251031153500 +0100" stop="20251031160500 +0100">
     <title>Rap fyr i L.A.</title>
@@ -12006,10 +11767,6 @@ Afl. 199:. Live uitzendingen van ESPN omtrent wedstrijden uit de Vriendenloterij
     <title>Serie A: Napoli-Como</title>
     <desc>S2025E380 - Følg Serie A på TV 2 Play, TV 2 Sport X og TV 2 Sport, og oplev latinobold i verdensklasse. Den bedste italienske liga byder på masser af taktik, passion og teknik på et højt niveau, og her er der hård konkurrence om at vinde Scudettoen mellem stjernespækkede mandskaber som Roma, AC Milan, Juventus, Napoli, Inter og Atalanta.</desc>
   </programme>
-  <programme channel="tv2sport.dk" start="20251031140000 +0100" stop="20251031150000 +0100">
-    <title>Badminton: Kvartfinale, Hylo Open</title>
-    <desc>S2025E111 - Udsendelse af programmet - Badminton: Hylo Open</desc>
-  </programme>
   <programme channel="tv2sport.dk" start="20251031150000 +0100" stop="20251031160000 +0100">
     <title>Badminton: Kvartfinale, Hylo Open</title>
     <desc>S2025E112 - Udsendelse af programmet - Badminton: Hylo Open</desc>
@@ -12154,10 +11911,6 @@ Afl. 199:. Live uitzendingen van ESPN omtrent wedstrijden uit de Vriendenloterij
     <title>Badminton: Semifinale, Hylo Open</title>
     <desc>S2025E118 - Udsendelse af programmet - Badminton: Hylo Open</desc>
   </programme>
-  <programme channel="tv3sport.dk" start="20251031130000 +0100" stop="20251031150000 +0100">
-    <title>Carabao Cup: Newcastle - Tottenham</title>
-    <desc>S2025E10 - Ottendedelsfinalen i Carabao Cup spilles på St. James' Park, hvor Newcastle tager imod Tottenham. To ambitiøse Premier League-hold jagter en plads i kvartfinalen, og der er lagt op til intens fight, stærke dueller og cup-stemning under projektørerne.</desc>
-  </programme>
   <programme channel="tv3sport.dk" start="20251031150000 +0100" stop="20251031160000 +0100">
     <title>Let's Be Frank</title>
     <desc>S2025E7 - 23.10.25 - Thomas Frank har inviteret os på padel i Nordlondon, og så zoomer vi ind på Liverpools stime af nederlag, som blev forlænget af ingen andre end Man United i weekenden.</desc>
@@ -12241,14 +11994,6 @@ Afl. 199:. Live uitzendingen van ESPN omtrent wedstrijden uit de Vriendenloterij
   <programme channel="tv3sport.dk" start="20251101230500 +0100" stop="20251102020500 +0100">
     <title>NHL: Florida Panthers - Dallas Stars</title>
     <desc>S2025E37 - Florida Panthers byder Dallas Stars velkommen i Amerant Bank Arena! To tophold tørner sammen i et opgør med høj intensitet, store hits og klasse på isen. Det bliver tæt, tempofyldt og seværdigt!</desc>
-  </programme>
-  <programme channel="dazn1.es" start="20251031130000 +0100" stop="20251031150000 +0100">
-    <title>Goodwood Festival of Speed - Día 4</title>
-    <desc>Grandes debutantes, F1 clásicos, VR lunar en Future Lab, acrobacias aéreas y la icónica subida a la colina bajo un ambiente festivo.</desc>
-  </programme>
-  <programme channel="dazn1.es" start="20251031150000 +0100" stop="20251031151500 +0100">
-    <title>Código MotoGP - Tailandia</title>
-    <desc>Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.</desc>
   </programme>
   <programme channel="dazn1.es" start="20251031151500 +0100" stop="20251031162000 +0100">
     <title>MotoGP - GP de Tailandia - Carrera MotoGP</title>
@@ -12509,10 +12254,6 @@ Afl. 199:. Live uitzendingen van ESPN omtrent wedstrijden uit de Vriendenloterij
   <programme channel="beinsports1.fr" start="20251101223000 +0100" stop="20251102003000 +0100">
     <title>Milwaukee Bucks / Sacramento Kings</title>
     <desc>Diffusion d'un match de NBA (National Basketball Association), la ligue américaine de basketball. Depuis 1946, les parquets américains et canadiens voient s'affronter des franchises de légende comme les Lakers, les Bulls, les Celtics ou bien encore les Spurs. Des joueurs NBA sont entrés au panthéon du basket mondial à l'image de Michael Jordan, LeBron James, Shaquille O'Neal ou plus récemment les Français Tony Parker et Victor Wembanyama.</desc>
-  </programme>
-  <programme channel="beinsports3.fr" start="20251031133000 +0100" stop="20251031153000 +0100">
-    <title>Montpellier / Tourcoing</title>
-    <desc>Revivez le match de Ligue A masculine de volley .</desc>
   </programme>
   <programme channel="beinsports3.fr" start="20251031153000 +0100" stop="20251031161500 +0100">
     <title>Parenthèse enchantée</title>
@@ -13154,10 +12895,6 @@ Afl. 199:. Live uitzendingen van ESPN omtrent wedstrijden uit de Vriendenloterij
     <title>Vivez en direct les évènements de CANAL+</title>
     <desc> No Description Info</desc>
   </programme>
-  <programme channel="sport2.hu" start="20251031134500 +0100" stop="20251031144500 +0100">
-    <title>Televíziós vásárlás</title>
-    <desc>Különböző termékeket bemutató, és vásárlásra kínáló műsor.</desc>
-  </programme>
   <programme channel="sport2.hu" start="20251031144500 +0100" stop="20251031154500 +0100">
     <title>Trash Talk</title>
     <desc>Amerikai sportokkal foglalkozó talkshow különleges sportágakkal, egyedi témákkal. A műsorvezető mellett öt állandó szakértő segít tájékozódni többek között a legnépszerűbb amerikai profi ligák fontos eseményei között, de részesei lehetünk az Amerikában oly népszerű küzdősport-eseményeknek, akár az UFC által szervezett ketrecharcgáláknak is.</desc>
@@ -13256,10 +12993,6 @@ Afl. 199:. Live uitzendingen van ESPN omtrent wedstrijden uit de Vriendenloterij
   </programme>
   <programme channel="sport2.hu" start="20251101234500 +0100" stop="20251102000000 +0100">
     <title>Darts. Kilencnyilasok a Sport TV-n - 1. epizód</title>
-    <desc> No Description Info</desc>
-  </programme>
-  <programme channel="spiler1.hu" start="20251031135000 +0100" stop="20251031145000 +0100">
-    <title>Jéglovagok 4, ep. 12</title>
     <desc> No Description Info</desc>
   </programme>
   <programme channel="spiler1.hu" start="20251031145000 +0100" stop="20251031154500 +0100">
@@ -13421,14 +13154,6 @@ Afl. 199:. Live uitzendingen van ESPN omtrent wedstrijden uit de Vriendenloterij
   <programme channel="spiler1.hu" start="20251101233000 +0100" stop="20251102014000 +0100">
     <title>Premier League 2025/26: Crystal Palace – Brentford</title>
     <desc> No Description Info</desc>
-  </programme>
-  <programme channel="spiler2.hu" start="20251031140500 +0100" stop="20251031150500 +0100">
-    <title>A brit kincsvadász 2, ep. 8</title>
-    <desc>Salvage Hunters II</desc>
-  </programme>
-  <programme channel="spiler2.hu" start="20251031150500 +0100" stop="20251031153500 +0100">
-    <title>Zálogkirályok 5, ep. 6</title>
-    <desc>Hardcore Pawn V</desc>
   </programme>
   <programme channel="spiler2.hu" start="20251031153500 +0100" stop="20251031160000 +0100">
     <title>Zálogkirályok 5, ep. 7</title>
@@ -13661,10 +13386,6 @@ Afl. 199:. Live uitzendingen van ESPN omtrent wedstrijden uit de Vriendenloterij
   <programme channel="match4.hu" start="20251101224500 +0100" stop="20251102010000 +0100">
     <title>Serie A - Napoli-Como - 10/2025.. rész, labdarúgás</title>
     <desc>Az olasz futball legjobb mérkőzéseit ezúttal is a Network4 csatornáin lehet követni.</desc>
-  </programme>
-  <programme channel="arena4.hu" start="20251031141500 +0100" stop="20251031151500 +0100">
-    <title>Labdarúgás: Serie A, összefoglaló - 9. forduló</title>
-    <desc>Gólok, helyzetek, érdekes jelenetek az olasz élvonal mérkőzéseiből.</desc>
   </programme>
   <programme channel="arena4.hu" start="20251031151500 +0100" stop="20251031190000 +0100">
     <title>Amerikaifutball: NFL - Miami Dolphins - Baltimore Ravens</title>
@@ -14138,10 +13859,6 @@ Afl. 199:. Live uitzendingen van ESPN omtrent wedstrijden uit de Vriendenloterij
     <title>Fudbal - Švajcarska liga: Zurich - Lausanne</title>
     <desc>Švajcarska liga je jedna od najdugovječnijih liga u Evropi čija je prva sezona krenula još u 20. veku odnosno od 1897. godine. Liga se od 2003. igra po sistemu deset ekipa gde svaki igra sa svakim četiri utakmice po dve kući i dve u gostima. Poslednja ekipa nakon 36 kola napušta elitni rang švajvarskog fudbala i ispada u drugu švajcarsku ligu. Ekipa sa najviše titula je Grasshopper Club Zürich sa 27, od kojih su 19 u razdoblju profesionalizma. Novi milenijum je obeležio klub iz Bazela sa višestrukim uzastopnim titulama prvaka i jako dobrim rezultatima u Ligi šampiona.</desc>
   </programme>
-  <programme channel="ArenaSportPremium1.rs" start="20251031143000 +0100" stop="20251031153000 +0100">
-    <title>Fudbal - Mozzart Bet Superliga: Pregled 13. kola</title>
-    <desc>Pogledajte najbolje trenutke, golove i šanse u pregledu kola Superlige Srbije.</desc>
-  </programme>
   <programme channel="ArenaSportPremium1.rs" start="20251031153000 +0100" stop="20251031173000 +0100">
     <title>Fudbal - Mozzart Bet Superliga: Vojvodina - Crvena zvezda</title>
     <desc>Srpska Superliga svoju premijeru imala je u sezoni 2006./2007. U današnjem sistemu liga broji 20 ekipa i funkcioniše po dvokružnom principu takmičenju. Istoriju Superlige u najvećoj meri su obeležila dva velika beogradska rivala, Partizan i Crvena zvezda. Istorijski gledano, po broju osvojenih titula crveno-beli do grada je uspešniji.</desc>
@@ -14277,10 +13994,6 @@ Patrick Vieira.</desc>
     <title>Fudbal - Engleska liga: Tottenham - Chelsea</title>
     <desc>Svakog avgusta 20 ekipa započinje lov na najcenjeniji trofej engleskog fudbala. Engleska Premier liga u formatu u kojem se danas igra osnovana je 1992. godine kao nastavak na Englesku ligu osnovanu davne 1888. Sezona traje do maja u dvokružnom sistemu gde svaka ekipa kroz sezonu odigra 38 utakmica. Prvi osvajač prvenstva je najtrofejniji engleski fudbalski klub, Mančester Junajted. Biti prvak Engleske je cilj kojem teži svaki igrač Premier lige.</desc>
   </programme>
-  <programme channel="ArenaSportPremium2.rs" start="20251031133000 +0100" stop="20251031153000 +0100">
-    <title>Košarka - Euroleague: Maccabi Tel Aviv - Crvena zvezda</title>
-    <desc>Euroliga je takmičenje koje je svoj put u svet evropske košarke započelo pod nazivom Kup evropskih prvaka davne 1958. godine, a prvi trofej je osvojila ekipa ASK Rige iz tadašnjeg SSSR-a odnosno današnje Letonije. FIBA je vodila glavnu reč u ovom takmičenju sve do 2000. godine kada su klubovi preuzeli kontrolu nad takmičenjem preko svog udruženja "Eurolegaue Basketball". Format takmičenja se kroz istoriju menjao te je sadržavao deo po grupama nakon kojeg su usledile eliminacije u plejofu. Pobednik ovog takmičenja se odlučuje na završnom turniru koji se naziva "Final Four". Najuspešniji klubovi ovog takmičenja su Real Madrid, CSKA Moskva, Makabi Tel-Aviv, Panatinajkos, Vareze, Olimpijakos.</desc>
-  </programme>
   <programme channel="ArenaSportPremium2.rs" start="20251031153000 +0100" stop="20251031163000 +0100">
     <title>Košarka: Evroliga: Pregled 7. kola</title>
     <desc>Pregled najboljih momenata košarkaške Evrolige. Uživajte u nastupima najboljih košarkaša Starog kontinenta, njihovim neverovatnim potezima i preokretima koji su oduševili publiku na tribinama i pred malim ekranima.</desc>
@@ -14364,10 +14077,6 @@ Patrick Vieira.</desc>
   <programme channel="ArenaSportPremium2.rs" start="20251101224500 +0100" stop="20251102010000 +0100">
     <title>Fudbal - Italijanska liga: Napoli - Como</title>
     <desc>Seria A je profesionalno fudbalsko takmičenje koje broji 20 ekipa u dvokružnom ligaškom prvenstvu. Još od 1929. godine kada je osnovana, Seria A postala je sinonim za taktički fudbal. Dugi niz godina italijanski fudbal se svojim kvalitetom te nizom sjajnih igrača i trenera smatrao najboljim u Evropi. Padom finansijske moći italijanskih prvoligaša te nizom korupcijskih skandala liga je na kratko pala u kvalitetu, ali se sigurnim koracima vraća na mesto gde i pripada.</desc>
-  </programme>
-  <programme channel="ArenaSportPremium3.rs" start="20251031130000 +0100" stop="20251031150000 +0100">
-    <title>Fudbal - Kup Nemačke: Koln - Bayern</title>
-    <desc>Sami početak Nemačkog kupa ili DFB pokala datira još od 1935. godine kada je pokrenut pod nazivom "Tschammer-Pokal". U ovom takmičenju sudeluje 64 ekipe uključujući sve klubove iz prve i druge Bundeslige uz prve četri ekipe na tabeli treće lige. Ostatak učesnika dolazi od strane pobednika regionalnih kupova. Utakmice se igraju po jednostrukom kup sistemu u kojem se nakon regularnih 90 minuta igraju produžetci i nakon toga jedanaesterci ukoliko se do tada ne odluči pobednik. Finale se igra svake godine počevši od 1985. godine na Olimpijskom stadionu u Berlinu. Pobednik kupa osigurava plasman u UEFA Evropa Ligu.</desc>
   </programme>
   <programme channel="ArenaSportPremium3.rs" start="20251031150000 +0100" stop="20251031170000 +0100">
     <title>Fudbal - Carabao Cup: Swansea - Manchester City</title>
@@ -14479,10 +14188,6 @@ Patrick Vieira.</desc>
   <programme channel="ArenaSportPremium3.rs" start="20251101230000 +0100" stop="20251102010000 +0100">
     <title>Fudbal - Mozzart Bet Superliga: Čukarički - Partizan</title>
     <desc>Srpska Superliga svoju premijeru imala je u sezoni 2006./2007. U današnjem sistemu liga broji 20 ekipa i funkcioniše po dvokružnom principu takmičenju. Istoriju Superlige u najvećoj meri su obeležila dva velika beogradska rivala, Partizan i Crvena zvezda. Istorijski gledano, po broju osvojenih titula crveno-beli do grada je uspešniji.</desc>
-  </programme>
-  <programme channel="arenasport2.rs" start="20251031143000 +0100" stop="20251031150000 +0100">
-    <title>Pregled 10. kola</title>
-    <desc>ŠPANSKA LIGA.</desc>
   </programme>
   <programme channel="arenasport2.rs" start="20251031150000 +0100" stop="20251031170000 +0100">
     <title>Juventus - Udinese</title>
@@ -14836,10 +14541,6 @@ Patrick Vieira.</desc>
     <title>Saint-Quentin - Nanterre</title>
     <desc>FRANCUSKA LIGA.</desc>
   </programme>
-  <programme channel="ArenaSport5.hr" start="20251031120000 +0100" stop="20251031150000 +0100">
-    <title>Najava Programa</title>
-    <desc>Pogledajte što vas sve očekuje u našem programu.</desc>
-  </programme>
   <programme channel="ArenaSport5.hr" start="20251031150000 +0100" stop="20251031170000 +0100">
     <title>Hokej Na Ledu – Nhl: Tampa Bay – Las Vegas</title>
     <desc>Hokejaški spektakl očekuje nas 26. listopada 2025., kada će Tampa Bay ugostiti Vegas Golden Knightse na ledu Amalie Arene. Dvoboj dviju jakih momčadi obećava uzbuđenje i borbu do zadnje sekunde.</desc>
@@ -14907,10 +14608,6 @@ Patrick Vieira.</desc>
   <programme channel="ArenaSport5.hr" start="20251101230000 +0100" stop="20251102000000 +0100">
     <title>Nogomet – Premier League: Tottenham – Chelsea</title>
     <desc>Tottenham i Chelsea odmjerit će snage 1. studenoga 2025. u desetom kolu najjačeg engleskog nogometnog natjecanja. Tko će slaviti na Tottenham Hotspur stadionu? Susret počinje u 18:30.</desc>
-  </programme>
-  <programme channel="ArenaSport7.hr" start="20251031140000 +0100" stop="20251031150000 +0100">
-    <title>Nogomet: Liga Prvaka</title>
-    <desc>Sažetak 01.10.. Pogledajte najzanimljivije trenutke utakmica svih faza najvećeg klupskog nogometnog natjecanja u Europi.</desc>
   </programme>
   <programme channel="ArenaSport7.hr" start="20251031150000 +0100" stop="20251031170000 +0100">
     <title>Nogomet – Konferencijska Liga: Mainz – Zrinjski</title>
@@ -15119,10 +14816,6 @@ Sherman Griffin.</desc>
     <title>Najava Programa</title>
     <desc>Pogledajte što vas sve očekuje u našem programu.</desc>
   </programme>
-  <programme channel="premiersports1.uk" start="20251031140000 +0100" stop="20251031150000 +0100">
-    <title>Scottish Football Social Club</title>
-    <desc>Watch the latest episode of The Scottish Football Social Club.</desc>
-  </programme>
   <programme channel="premiersports1.uk" start="20251031150000 +0100" stop="20251031160000 +0100">
     <title>NHL on the Fly</title>
     <desc>Catch up on all the latest NHL news.</desc>
@@ -15286,10 +14979,6 @@ Sherman Griffin.</desc>
   <programme channel="premiersports1.uk" start="20251101215500 +0100" stop="20251102000000 +0100">
     <title>Live Brasileiro Serie A - Mirassol v Botafogo</title>
     <desc>Coverage of the Campeonato Brasileiro Serie A, the premier league in Brazilian football.</desc>
-  </programme>
-  <programme channel="4569" start="20251031140000 +0100" stop="20251031150000 +0100">
-    <title>▶️ Total Football.</title>
-    <desc>Get the definitive take from the managers and players themselves, with live press conferences, interviews and the biggest headlines ahead of the weekend to come. | Category: Football</desc>
   </programme>
   <programme channel="4569" start="20251031150000 +0100" stop="20251031160000 +0100">
     <title>▶️ Total Football.</title>
@@ -15458,10 +15147,6 @@ Sherman Griffin.</desc>
   <programme channel="4569" start="20251101233000 +0100" stop="20251102000000 +0100">
     <title>Premier League. Nottingham Forest v Manchester United.</title>
     <desc>Nottingham Forest play host to Manchester United at the City Ground in the Premier League. | Nottingham Forest v Manchester United | Category: Football (01/11/2025)</desc>
-  </programme>
-  <programme channel="TNT Sports 1 HD" start="20251031140000 +0100" stop="20251031150000 +0100">
-    <title>Fishing: On the Bank. Parkdean Masters.</title>
-    <desc>Angling magazine show presented by Rob Hughes and Andy Ford, featuring coverage of the 2025 Parkdean Masters. | Series 25 Episode 13: Parkdean Masters | Category: Fishing (27/10/2025) В ролях: Andy Ford, Rob Hughes.</desc>
   </programme>
   <programme channel="TNT Sports 1 HD" start="20251031150000 +0100" stop="20251031160000 +0100">
     <title>Ultra-Trail World Series. Kackar.</title>

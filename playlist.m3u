@@ -1,11 +1,969 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="dummy-1" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/109.png" group-title="🔴 LIVE SPORT (Falcon)",17:45
+#EXTINF:-1 tvg-id="conf-1" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",11:00 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="One.Music.Television.ch" tvg-name="ONE MUSIC TELEVISION" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ONE MUSIC TELEVISION
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394410.ts
+#EXTINF:-1 tvg-id="conf-2" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",12:00 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="SRF.zwei.ch" tvg-name="SRF zwei HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SRF zwei HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/364698.ts
+#EXTINF:-1 tvg-id="conf-3" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",14:00 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="CrimeTimeHD" tvg-name="Crime Time HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Crime Time HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394003.ts
+#EXTINF:-1 tvg-id="CrimeTimeHD" tvg-name="Crime Time HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Crime Time HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394004.ts
+#EXTINF:-1 tvg-id="arenasport1x2.rs" tvg-name="ARENA SPORT 1x2 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ARENA SPORT 1x2 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355557.ts
+#EXTINF:-1 tvg-id="jugoton.hr" tvg-name="JUGOTON" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",JUGOTON
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355782.ts
+#EXTINF:-1 tvg-id="conf-4" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",14:45 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="tv2.dk" tvg-name="DK: TV2 FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",DK: TV2 FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/441928.ts
+#EXTINF:-1 tvg-id="tv2.dk" tvg-name="DK: TV2 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",DK: TV2 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/441925.ts
+#EXTINF:-1 tvg-id="tv5mondefbs.fr" tvg-name="FR: TV5MONDE FBS HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",FR: TV5MONDE FBS HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/446349.ts
+#EXTINF:-1 tvg-id="cine34.it" tvg-name="IT: Cine34 HDʀᴀᴡ" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",IT: Cine34 HDʀᴀᴡ
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/384389.ts
+#EXTINF:-1 tvg-id="cine34.it" tvg-name="IT: CINE34" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",IT: CINE34
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/388573.ts
+#EXTINF:-1 tvg-id="conf-5" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",15:00 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="dummy-532" tvg-name="✦●✦ DE • RegioTV Mix ✦●✦" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",✦●✦ DE • RegioTV Mix ✦●✦
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394133.ts
+#EXTINF:-1 tvg-id="4816ad1c9335b77ab09370b016aa43db" tvg-name="HSE" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HSE
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394172.ts
+#EXTINF:-1 tvg-id="ORFSPORTplusHD" tvg-name="ORF SPORT+ HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ORF SPORT+ HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394726.ts
+#EXTINF:-1 tvg-id="ORFSPORTplusHD" tvg-name="ORF SPORT+ HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ORF SPORT+ HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394727.ts
+#EXTINF:-1 tvg-id="ORFSPORTplusHD" tvg-name="ORF Sport+ FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ORF Sport+ FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394747.ts
+#EXTINF:-1 tvg-id="ORFSPORTplusHD" tvg-name="ORF Sport+ HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ORF Sport+ HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394748.ts
+#EXTINF:-1 tvg-id="dummy-1988" tvg-name="✦●✦ UEFA LIVE EVENT MIX ✦●✦" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",✦●✦ UEFA LIVE EVENT MIX ✦●✦
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/416592.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: SKY SPORTS NEWS FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS NEWS FHD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426270.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: SKY SPORTS NEWS FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS NEWS FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426271.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: SKY SPORTS NEWS HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS NEWS HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426272.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="HEVC FHD Sky Sports News" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC FHD Sky Sports News
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361995.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK FHD  Sky Sports News FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK FHD  Sky Sports News FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361996.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News HD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: Sky Sports News HD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361997.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="HEVC HD SKY SPORTS NEWS" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC HD SKY SPORTS NEWS
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361998.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAG. FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS PREMIER LEAG. FHD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426276.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAG. FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS PREMIER LEAG. FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426277.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAG. HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS PREMIER LEAG. HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426278.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="UKFHD | Sky Sports Premier Leauge 50FPS" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UKFHD | Sky Sports Premier Leauge 50FPS
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/362001.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="HEVC FHD Sky Sports Premier League" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC FHD Sky Sports Premier League
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/362002.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="HEVC HD Sky Sports Premier League" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC HD Sky Sports Premier League
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/362003.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="HEVC HD Sky Sports Premier League" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC HD Sky Sports Premier League
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/362004.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="AUS: Optus Premier League" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AUS: Optus Premier League
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/398731.ts
+#EXTINF:-1 tvg-id="bether.us" tvg-name="US: BET HER" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",US: BET HER
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/359884.ts
+#EXTINF:-1 tvg-id="bether.us" tvg-name="US: BET HER" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",US: BET HER
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/376155.ts
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="US: Cooking Channel HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",US: Cooking Channel HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/359891.ts
+#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="USA- NBC Sports Boston HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",USA- NBC Sports Boston HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/360703.ts
+#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="US: NBC SPORTS BOSTON" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",US: NBC SPORTS BOSTON
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/375835.ts
+#EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="US: MTV CLASSIC" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",US: MTV CLASSIC
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/375857.ts
+#EXTINF:-1 tvg-id="360tunebox.hu" tvg-name="HU: 360 Tune Box HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HU: 360 Tune Box HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442192.ts
+#EXTINF:-1 tvg-id="mtv90s.hu" tvg-name="HU: MTV 90s" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HU: MTV 90s
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442142.ts
+#EXTINF:-1 tvg-id="4569" tvg-name="VIP SPORT: SKY SPORT PREMIER LEAGUE (UK)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",VIP SPORT: SKY SPORT PREMIER LEAGUE (UK)
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/237669.ts
+#EXTINF:-1 tvg-id="conf-6" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",15:15 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="SAT.1 emotions HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SAT.1 emotions HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393629.ts
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="SAT.1 emotions HDraw Cable" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SAT.1 emotions HDraw Cable
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393630.ts
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="SAT.1 emotions FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SAT.1 emotions FHD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393775.ts
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="SAT.1 emotions FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SAT.1 emotions FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393776.ts
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="SAT.1 emotions HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SAT.1 emotions HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393777.ts
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="SAT.1 emotions SD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SAT.1 emotions SD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/438356.ts
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="SAT.1 emotions" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SAT.1 emotions
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/423436.ts
+#EXTINF:-1 tvg-id="balkanikatv.ro" tvg-name="Balkanika Tv" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Balkanika Tv
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/352537.ts
+#EXTINF:-1 tvg-id="balkanikatv.ro" tvg-name="BG| BALKANIKA HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",BG| BALKANIKA HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/398889.ts
+#EXTINF:-1 tvg-id="m5.hu" tvg-name="HU: M5 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HU: M5 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442205.ts
+#EXTINF:-1 tvg-id="fightbox.hu" tvg-name="HU: FIGHTBOX" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HU: FIGHTBOX
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442172.ts
+#EXTINF:-1 tvg-id="conf-7" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",15:30 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK FHD  More4" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK FHD  More4
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361462.ts
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="HEVC FHD More4" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC FHD More4
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361463.ts
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="HEVC HD More4" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC HD More4
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361465.ts
+#EXTINF:-1 tvg-id="DexyTV.rs" tvg-name="DEXY TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",DEXY TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355736.ts
+#EXTINF:-1 tvg-id="conf-8" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",16:00 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="DF1HD" tvg-name="DF1 HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",DF1 HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393631.ts
+#EXTINF:-1 tvg-id="DF1HD" tvg-name="DF1 HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",DF1 HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393632.ts
+#EXTINF:-1 tvg-id="DF1HD" tvg-name="DF1 HDraw Cable" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",DF1 HDraw Cable
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393633.ts
+#EXTINF:-1 tvg-id="DF1HD" tvg-name="DF1 FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",DF1 FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393778.ts
+#EXTINF:-1 tvg-id="DF1HD" tvg-name="DF1 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",DF1 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393779.ts
+#EXTINF:-1 tvg-id="DF1HD" tvg-name="DF1 SD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",DF1 SD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/438357.ts
+#EXTINF:-1 tvg-id="4816ad1c9335b77ab09370b016aa43db" tvg-name="HSE" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HSE
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394172.ts
+#EXTINF:-1 tvg-id="df1.de" tvg-name="DF1 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",DF1 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/423494.ts
+#EXTINF:-1 tvg-id="jukebox.de" tvg-name="DE: Jukebox" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",DE: Jukebox
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394389.ts
+#EXTINF:-1 tvg-id="Jukebox" tvg-name="Jukebox HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Jukebox HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394390.ts
+#EXTINF:-1 tvg-id="mtvhd" tvg-name="MTV HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",MTV HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394399.ts
+#EXTINF:-1 tvg-id="mtvhd" tvg-name="MTV HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",MTV HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394400.ts
+#EXTINF:-1 tvg-id="mtvhd" tvg-name="MTV HDraw Cable" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",MTV HDraw Cable
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394401.ts
+#EXTINF:-1 tvg-id="e499e10e3c6a7278abe9915574424b15" tvg-name="PL: Polo TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: Polo TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372242.ts
+#EXTINF:-1 tvg-id="nicktoons.ro" tvg-name="Nicktoons" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Nicktoons
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/352622.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: SKY SPORTS NEWS FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS NEWS FHD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426270.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: SKY SPORTS NEWS FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS NEWS FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426271.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: SKY SPORTS NEWS HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS NEWS HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426272.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="HEVC FHD Sky Sports News" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC FHD Sky Sports News
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361995.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK FHD  Sky Sports News FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK FHD  Sky Sports News FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361996.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News HD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: Sky Sports News HD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361997.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="HEVC HD SKY SPORTS NEWS" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC HD SKY SPORTS NEWS
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361998.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAG. FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS PREMIER LEAG. FHD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426276.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAG. FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS PREMIER LEAG. FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426277.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAG. HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS PREMIER LEAG. HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426278.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="UKFHD | Sky Sports Premier Leauge 50FPS" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UKFHD | Sky Sports Premier Leauge 50FPS
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/362001.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="HEVC FHD Sky Sports Premier League" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC FHD Sky Sports Premier League
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/362002.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="HEVC HD Sky Sports Premier League" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC HD Sky Sports Premier League
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/362003.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="HEVC HD Sky Sports Premier League" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC HD Sky Sports Premier League
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/362004.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="AUS: Optus Premier League" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AUS: Optus Premier League
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/398731.ts
+#EXTINF:-1 tvg-id="tvnoord.nl" tvg-name="NL: TV NOORD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: TV NOORD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/374371.ts
+#EXTINF:-1 tvg-id="babytv.nl" tvg-name="NL: BABY TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: BABY TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/356818.ts
+#EXTINF:-1 tvg-id="babytv.nl" tvg-name="NL: BABY TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: BABY TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/374201.ts
+#EXTINF:-1 tvg-id="dittytv.us" tvg-name="US: Ditty TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",US: Ditty TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/360082.ts
+#EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="US: MTV CLASSIC" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",US: MTV CLASSIC
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/375857.ts
+#EXTINF:-1 tvg-id="tv2comedy.hu" tvg-name="HU: TV2 Comedy" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HU: TV2 Comedy
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442196.ts
+#EXTINF:-1 tvg-id="fashiontv.hu" tvg-name="HU: Fashion TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HU: Fashion TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442173.ts
+#EXTINF:-1 tvg-id="arenasport1x2.rs" tvg-name="ARENA SPORT 1x2 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ARENA SPORT 1x2 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355557.ts
+#EXTINF:-1 tvg-id="4569" tvg-name="VIP SPORT: SKY SPORT PREMIER LEAGUE (UK)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",VIP SPORT: SKY SPORT PREMIER LEAGUE (UK)
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/237669.ts
+#EXTINF:-1 tvg-id="conf-9" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",16:15 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="balkanikatv.ro" tvg-name="Balkanika Tv" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Balkanika Tv
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/352537.ts
+#EXTINF:-1 tvg-id="balkanikatv.ro" tvg-name="BG| BALKANIKA HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",BG| BALKANIKA HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/398889.ts
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="FR: TV5MONDE" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",FR: TV5MONDE
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/446350.ts
+#EXTINF:-1 tvg-id="tv2comedy.hu" tvg-name="HU: TV2 Comedy" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HU: TV2 Comedy
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442196.ts
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",RTS 2
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355401.ts
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2 HQ" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",RTS 2 HQ
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355402.ts
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2 FULL HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",RTS 2 FULL HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355403.ts
+#EXTINF:-1 tvg-id="pinkpedia.rs" tvg-name="PINK PEDIA" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PINK PEDIA
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355619.ts
+#EXTINF:-1 tvg-id="conf-10" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",16:30 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="svtbarn.no" tvg-name="NO: SVT Barn HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NO: SVT Barn HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/441189.ts
+#EXTINF:-1 tvg-id="more4.uk.plus1" tvg-name="UK- More4+1" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK- More4+1
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361468.ts
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="FR: TV5MONDE" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",FR: TV5MONDE
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/446350.ts
+#EXTINF:-1 tvg-id="fashiontv.hu" tvg-name="HU: Fashion TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HU: Fashion TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442173.ts
+#EXTINF:-1 tvg-id="conf-11" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",16:45 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="VOXupHD" tvg-name="VOXup HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",VOXup HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393610.ts
+#EXTINF:-1 tvg-id="VOXupHD" tvg-name="VOXup HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",VOXup HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393611.ts
+#EXTINF:-1 tvg-id="VOXupHD" tvg-name="VOXup SDraw Cable" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",VOXup SDraw Cable
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393612.ts
+#EXTINF:-1 tvg-id="VOXupHD" tvg-name="VOXup FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",VOXup FHD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393752.ts
+#EXTINF:-1 tvg-id="VOXupHD" tvg-name="VOXup FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",VOXup FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393753.ts
+#EXTINF:-1 tvg-id="VOXupHD" tvg-name="VOXup HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",VOXup HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393754.ts
+#EXTINF:-1 tvg-id="VOXupHD" tvg-name="VOXup SD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",VOXup SD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/438348.ts
+#EXTINF:-1 tvg-id="atv.de" tvg-name="a.tv HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",a.tv HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394132.ts
+#EXTINF:-1 tvg-id="ATVHD" tvg-name="ATV HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ATV HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394258.ts
+#EXTINF:-1 tvg-id="ATVHD" tvg-name="ATV HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ATV HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394259.ts
+#EXTINF:-1 tvg-id="ATVHD" tvg-name="ATV HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ATV HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/423519.ts
+#EXTINF:-1 tvg-id="ATVHD" tvg-name="AT: ATV HD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AT: ATV HD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394296.ts
+#EXTINF:-1 tvg-id="ATVHD" tvg-name="AT: ATV HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AT: ATV HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394297.ts
+#EXTINF:-1 tvg-id="tv2comedy.hu" tvg-name="HU: TV2 Comedy" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HU: TV2 Comedy
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442196.ts
+#EXTINF:-1 tvg-id="conf-12" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",17:00 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="dummy-532" tvg-name="✦●✦ DE • RegioTV Mix ✦●✦" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",✦●✦ DE • RegioTV Mix ✦●✦
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394133.ts
+#EXTINF:-1 tvg-id="4816ad1c9335b77ab09370b016aa43db" tvg-name="HSE" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HSE
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394172.ts
+#EXTINF:-1 tvg-id="dummy-1988" tvg-name="✦●✦ UEFA LIVE EVENT MIX ✦●✦" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",✦●✦ UEFA LIVE EVENT MIX ✦●✦
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/416592.ts
+#EXTINF:-1 tvg-id="b4umusic.uk" tvg-name="UKSD- B4U Music" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UKSD- B4U Music
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361670.ts
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="HEVC FHD MUTV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC FHD MUTV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361864.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: SKY SPORTS NEWS FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS NEWS FHD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426270.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: SKY SPORTS NEWS FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS NEWS FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426271.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: SKY SPORTS NEWS HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS NEWS HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426272.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="HEVC FHD Sky Sports News" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC FHD Sky Sports News
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361995.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK FHD  Sky Sports News FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK FHD  Sky Sports News FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361996.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News HD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: Sky Sports News HD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361997.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="HEVC HD SKY SPORTS NEWS" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC HD SKY SPORTS NEWS
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361998.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAG. FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS PREMIER LEAG. FHD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426276.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAG. FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS PREMIER LEAG. FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426277.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAG. HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS PREMIER LEAG. HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426278.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="UKFHD | Sky Sports Premier Leauge 50FPS" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UKFHD | Sky Sports Premier Leauge 50FPS
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/362001.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="HEVC FHD Sky Sports Premier League" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC FHD Sky Sports Premier League
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/362002.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="HEVC HD Sky Sports Premier League" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC HD Sky Sports Premier League
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/362003.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="HEVC HD Sky Sports Premier League" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC HD Sky Sports Premier League
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/362004.ts
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="AUS: Optus Premier League" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AUS: Optus Premier League
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/398731.ts
+#EXTINF:-1 tvg-id="npo1.nl" tvg-name="NL: NPO 1 FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: NPO 1 FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/374092.ts
+#EXTINF:-1 tvg-id="npo1.nl" tvg-name="NL: NPO 1 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: NPO 1 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/374093.ts
+#EXTINF:-1 tvg-id="360 TuneBox HD" tvg-name="ALB: 360 TuneBox HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ALB: 360 TuneBox HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/435763.ts
+#EXTINF:-1 tvg-id="360 TuneBox HD" tvg-name="CZ: 360 Tune Box HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",CZ: 360 Tune Box HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/441261.ts
+#EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="US: MTV CLASSIC" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",US: MTV CLASSIC
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/375857.ts
+#EXTINF:-1 tvg-id="360tunebox.hu" tvg-name="HU: 360 Tune Box HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HU: 360 Tune Box HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442192.ts
+#EXTINF:-1 tvg-id="4569" tvg-name="VIP SPORT: SKY SPORT PREMIER LEAGUE (UK)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",VIP SPORT: SKY SPORT PREMIER LEAGUE (UK)
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/237669.ts
+#EXTINF:-1 tvg-id="MyZen 4K" tvg-name="MyZen 4K" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",MyZen 4K
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/430387.ts
+#EXTINF:-1 tvg-id="conf-13" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",17:15 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="balkanikatv.ro" tvg-name="Balkanika Tv" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Balkanika Tv
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/352537.ts
+#EXTINF:-1 tvg-id="balkanikatv.ro" tvg-name="BG| BALKANIKA HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",BG| BALKANIKA HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/398889.ts
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="FR: TV5MONDE" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",FR: TV5MONDE
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/446350.ts
+#EXTINF:-1 tvg-id="conf-14" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",17:30 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394622.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394623.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News HDraw Cable" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News HDraw Cable
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394624.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News FHD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394677.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394678.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394679.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News (Mobil)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News (Mobil)
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394459.ts
+#EXTINF:-1 tvg-id="nicktoons.nl" tvg-name="NL: NICKTOONS" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: NICKTOONS
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/374197.ts
+#EXTINF:-1 tvg-id="nicktoons.nl" tvg-name="BG| NICK TOONS HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",BG| NICK TOONS HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/398836.ts
+#EXTINF:-1 tvg-id="nicktoons.nl" tvg-name="LT: NICK TOONS" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",LT: NICK TOONS
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/418851.ts
+#EXTINF:-1 tvg-id="revolt.us" tvg-name="US: REVOLT" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",US: REVOLT
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/375716.ts
+#EXTINF:-1 tvg-id="Food.Network.E.ch" tvg-name="US: FOOD NETWORK HD WEST" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",US: FOOD NETWORK HD WEST
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/376033.ts
+#EXTINF:-1 tvg-id="Food.Network.E.ch" tvg-name="US: FOOD NETWORK HD EAST" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",US: FOOD NETWORK HD EAST
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/376034.ts
+#EXTINF:-1 tvg-id="Food.Network.E.ch" tvg-name="BG| FOOD NETWORK FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",BG| FOOD NETWORK FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/398923.ts
+#EXTINF:-1 tvg-id="Food.Network.E.ch" tvg-name="CA:Food Network HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",CA:Food Network HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/356631.ts
+#EXTINF:-1 tvg-id="Food.Network.E.ch" tvg-name="BR: FOOD NETWORK HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",BR: FOOD NETWORK HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/397922.ts
+#EXTINF:-1 tvg-id="Food.Network.E.ch" tvg-name="LT: FOOD NETWORK FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",LT: FOOD NETWORK FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/418926.ts
+#EXTINF:-1 tvg-id="Food.Network.E.ch" tvg-name="LT: FOOD NETWORK HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",LT: FOOD NETWORK HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/418808.ts
+#EXTINF:-1 tvg-id="conf-15" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",17:45 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="atv.de" tvg-name="a.tv HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",a.tv HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394132.ts
+#EXTINF:-1 tvg-id="ATVHD" tvg-name="ATV HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ATV HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394258.ts
+#EXTINF:-1 tvg-id="ATVHD" tvg-name="ATV HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ATV HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394259.ts
+#EXTINF:-1 tvg-id="ATVHD" tvg-name="ATV HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ATV HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/423519.ts
+#EXTINF:-1 tvg-id="ATVHD" tvg-name="AT: ATV HD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AT: ATV HD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394296.ts
+#EXTINF:-1 tvg-id="ATVHD" tvg-name="AT: ATV HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AT: ATV HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394297.ts
+#EXTINF:-1 tvg-id="ducktv.ro" tvg-name="duck TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",duck TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/423502.ts
+#EXTINF:-1 tvg-id="ducktv.ro" tvg-name="Duck TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Duck TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/352616.ts
+#EXTINF:-1 tvg-id="conf-16" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",18:00 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="CrimeTimeHD" tvg-name="Crime Time HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Crime Time HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394003.ts
+#EXTINF:-1 tvg-id="CrimeTimeHD" tvg-name="Crime Time HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Crime Time HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394004.ts
+#EXTINF:-1 tvg-id="4816ad1c9335b77ab09370b016aa43db" tvg-name="HSE" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HSE
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394172.ts
+#EXTINF:-1 tvg-id="ducktv.ro" tvg-name="duck TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",duck TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/423502.ts
+#EXTINF:-1 tvg-id="ducktv.ro" tvg-name="Duck TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Duck TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/352616.ts
+#EXTINF:-1 tvg-id="mtv90s.ro" tvg-name="MTV 90S" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",MTV 90S
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394416.ts
+#EXTINF:-1 tvg-id="mtv90s.ro" tvg-name="MTV 90" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",MTV 90
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/352532.ts
+#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394540.ts
+#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394541.ts
+#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 HDraw Cable" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 HDraw Cable
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394542.ts
+#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 FHD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394585.ts
+#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394586.ts
+#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 HD (AT)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 HD (AT)
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394587.ts
+#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394588.ts
+#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 (Mobil)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 (Mobil)
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394466.ts
+#EXTINF:-1 tvg-id="bffaf65cd9736995fcf81657f128e1de" tvg-name="Sky Bundesliga 5 HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 5 HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394552.ts
+#EXTINF:-1 tvg-id="bffaf65cd9736995fcf81657f128e1de" tvg-name="Sky Bundesliga 5 HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 5 HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394553.ts
+#EXTINF:-1 tvg-id="bffaf65cd9736995fcf81657f128e1de" tvg-name="Sky Bundesliga 5 HDraw Cable" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 5 HDraw Cable
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394554.ts
+#EXTINF:-1 tvg-id="bffaf65cd9736995fcf81657f128e1de" tvg-name="Sky Bundesliga 5 FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 5 FHD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394597.ts
+#EXTINF:-1 tvg-id="bffaf65cd9736995fcf81657f128e1de" tvg-name="Sky Bundesliga 5 FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 5 FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394598.ts
+#EXTINF:-1 tvg-id="bffaf65cd9736995fcf81657f128e1de" tvg-name="Sky Bundesliga 5 HD (AT)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 5 HD (AT)
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394599.ts
+#EXTINF:-1 tvg-id="bffaf65cd9736995fcf81657f128e1de" tvg-name="Sky Bundesliga 5 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 5 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394600.ts
+#EXTINF:-1 tvg-id="bffaf65cd9736995fcf81657f128e1de" tvg-name="Sky Bundesliga 5 (Mobil)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 5 (Mobil)
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394469.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394622.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394623.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News HDraw Cable" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News HDraw Cable
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394624.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News FHD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394677.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394678.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394679.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News (Mobil)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News (Mobil)
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394459.ts
+#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394626.ts
+#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394627.ts
+#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event HDʀᴀᴡ Cable" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event HDʀᴀᴡ Cable
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394628.ts
+#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event FHD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394680.ts
+#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394681.ts
+#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394682.ts
+#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event (Mobil)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event (Mobil)
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394460.ts
+#EXTINF:-1 tvg-id="360 TuneBox HD" tvg-name="ALB: 360 TuneBox HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ALB: 360 TuneBox HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/435763.ts
+#EXTINF:-1 tvg-id="360 TuneBox HD" tvg-name="CZ: 360 Tune Box HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",CZ: 360 Tune Box HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/441261.ts
+#EXTINF:-1 tvg-id="dittytv.us" tvg-name="US: Ditty TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",US: Ditty TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/360082.ts
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="CA:Nat GEO Wild HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",CA:Nat GEO Wild HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/356665.ts
+#EXTINF:-1 tvg-id="film+.hu" tvg-name="HU: Film+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HU: Film+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442171.ts
+#EXTINF:-1 tvg-id="360tunebox.hu" tvg-name="HU: 360 Tune Box HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HU: 360 Tune Box HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442192.ts
+#EXTINF:-1 tvg-id="arenasport1x2.rs" tvg-name="ARENA SPORT 1x2 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ARENA SPORT 1x2 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355557.ts
+#EXTINF:-1 tvg-id="rtlkockica.hr" tvg-name="RTL KOCKICA HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",h_294,al_c,lg_1,q_85,enc_auto/7831df_146071f7740e49608665deeddb0e628b.png" group-title="EXYU • DECIJI",RTL KOCKICA HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355740.ts
+#EXTINF:-1 tvg-id="conf-17" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",18:15 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="ducktv.ro" tvg-name="duck TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",duck TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/423502.ts
+#EXTINF:-1 tvg-id="ducktv.ro" tvg-name="Duck TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Duck TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/352616.ts
+#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL: Fightbox HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: Fightbox HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372292.ts
+#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL: Fightbox HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: Fightbox HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372293.ts
+#EXTINF:-1 tvg-id="film1premiere.nl" tvg-name="NL: FILM1 PREMIERE FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: FILM1 PREMIERE FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/374296.ts
+#EXTINF:-1 tvg-id="film1premiere.nl" tvg-name="NL: FILM 1 PREMIERE HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: FILM 1 PREMIERE HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/374301.ts
+#EXTINF:-1 tvg-id="conf-18" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",18:30 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="SAT.1 emotions HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SAT.1 emotions HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393629.ts
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="SAT.1 emotions HDraw Cable" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SAT.1 emotions HDraw Cable
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393630.ts
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="SAT.1 emotions FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SAT.1 emotions FHD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393775.ts
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="SAT.1 emotions FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SAT.1 emotions FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393776.ts
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="SAT.1 emotions HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SAT.1 emotions HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393777.ts
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="SAT.1 emotions SD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SAT.1 emotions SD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/438356.ts
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="SAT.1 emotions" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SAT.1 emotions
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/423436.ts
+#EXTINF:-1 tvg-id="conf-19" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",18:45 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="La.Télé.ch" tvg-name="FR: la télé HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",FR: la télé HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/446366.ts
+#EXTINF:-1 tvg-id="conf-20" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",19:00 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="ProsiebenHD" tvg-name="ProSieben HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ProSieben HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393585.ts
+#EXTINF:-1 tvg-id="ProsiebenHD" tvg-name="ProSieben HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ProSieben HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393586.ts
+#EXTINF:-1 tvg-id="ProsiebenHD" tvg-name="ProSieben HDraw Cable" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ProSieben HDraw Cable
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393587.ts
+#EXTINF:-1 tvg-id="ProsiebenHD" tvg-name="ProSieben FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ProSieben FHD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393725.ts
+#EXTINF:-1 tvg-id="ProsiebenHD" tvg-name="ProSieben FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ProSieben FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393726.ts
+#EXTINF:-1 tvg-id="ProsiebenHD" tvg-name="ProSieben HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ProSieben HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393727.ts
+#EXTINF:-1 tvg-id="ProsiebenHD" tvg-name="ProSieben SD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ProSieben SD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/438339.ts
+#EXTINF:-1 tvg-id="dummy-532" tvg-name="✦●✦ DE • RegioTV Mix ✦●✦" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",✦●✦ DE • RegioTV Mix ✦●✦
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394133.ts
+#EXTINF:-1 tvg-id="4816ad1c9335b77ab09370b016aa43db" tvg-name="HSE" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HSE
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394172.ts
+#EXTINF:-1 tvg-id="ProSiebenHDAT" tvg-name="AT: ProSieben HD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AT: ProSieben HD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394320.ts
+#EXTINF:-1 tvg-id="ProSiebenHDAT" tvg-name="AT: ProSieben HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AT: ProSieben HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394321.ts
+#EXTINF:-1 tvg-id="sport2myteamtv.de" tvg-name="myTeamTV Sport 2 FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",myTeamTV Sport 2 FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394777.ts
+#EXTINF:-1 tvg-id="sport2myteamtv.de" tvg-name="myTeamTV Sport 2 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",myTeamTV Sport 2 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394778.ts
+#EXTINF:-1 tvg-id="sport2myteamtv.de" tvg-name="myTeamTV Sport 2 (Mobil)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",myTeamTV Sport 2 (Mobil)
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394476.ts
+#EXTINF:-1 tvg-id="dummy-1988" tvg-name="✦●✦ UEFA LIVE EVENT MIX ✦●✦" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",✦●✦ UEFA LIVE EVENT MIX ✦●✦
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/416592.ts
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="AR_NS| BBC WORLD NEWS HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AR_NS| BBC WORLD NEWS HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/387457.ts
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="USA -BBC-WORLD-NEWS" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",USA -BBC-WORLD-NEWS
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/360045.ts
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="LT: BBC WORLD NEWS HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",LT: BBC WORLD NEWS HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/418822.ts
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="LT: BBC World News FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",LT: BBC World News FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/418815.ts
+#EXTINF:-1 tvg-id="360tunebox.hu" tvg-name="HU: 360 Tune Box HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HU: 360 Tune Box HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442192.ts
+#EXTINF:-1 tvg-id="KanalA.svn" tvg-name="SL: Kanal A HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SL: Kanal A HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355503.ts
+#EXTINF:-1 tvg-id="conf-21" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",19:15 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="ORF3HD" tvg-name="ORF III HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ORF III HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394256.ts
+#EXTINF:-1 tvg-id="ORF3HD" tvg-name="ORF III HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ORF III HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394257.ts
+#EXTINF:-1 tvg-id="ORF3HD" tvg-name="ORF III HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ORF III HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/423484.ts
+#EXTINF:-1 tvg-id="ORF3HD" tvg-name="AT: ORF III HD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AT: ORF III HD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394294.ts
+#EXTINF:-1 tvg-id="ORF3HD" tvg-name="AT: ORF III HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AT: ORF III HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394295.ts
+#EXTINF:-1 tvg-id="Canal+Action" tvg-name="Canal+ Action HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Canal+ Action HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442001.ts
+#EXTINF:-1 tvg-id="Canal+Action" tvg-name="Canal+ Action HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Canal+ Action HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/447677.ts
+#EXTINF:-1 tvg-id="ducktv.ro" tvg-name="duck TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",duck TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/423502.ts
+#EXTINF:-1 tvg-id="ducktv.ro" tvg-name="Duck TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Duck TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/352616.ts
+#EXTINF:-1 tvg-id="fightbox.ro" tvg-name="FightBox HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",FightBox HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/352602.ts
+#EXTINF:-1 tvg-id="fightbox.ro" tvg-name="FIGHT BOX HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",FIGHT BOX HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/387324.ts
+#EXTINF:-1 tvg-id="nicktoons.nl" tvg-name="NL: NICKTOONS" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: NICKTOONS
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/374197.ts
+#EXTINF:-1 tvg-id="nicktoons.nl" tvg-name="BG| NICK TOONS HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",BG| NICK TOONS HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/398836.ts
+#EXTINF:-1 tvg-id="nicktoons.nl" tvg-name="LT: NICK TOONS" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",LT: NICK TOONS
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/418851.ts
+#EXTINF:-1 tvg-id="3792" tvg-name="NL: FIGHT BOX FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: FIGHT BOX FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/374358.ts
+#EXTINF:-1 tvg-id="3792" tvg-name="BG| FIGHT BOX FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",BG| FIGHT BOX FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/398950.ts
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: beIN SPORTS 1" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",FR: beIN SPORTS 1
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/446524.ts
+#EXTINF:-1 tvg-id="conf-22" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",19:30 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="warnertv.ro" tvg-name="WarnerTV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",WarnerTV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/352521.ts
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="AR_NS| BBC WORLD NEWS HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AR_NS| BBC WORLD NEWS HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/387457.ts
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="USA -BBC-WORLD-NEWS" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",USA -BBC-WORLD-NEWS
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/360045.ts
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="LT: BBC WORLD NEWS HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",LT: BBC WORLD NEWS HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/418822.ts
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="LT: BBC World News FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",LT: BBC World News FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/418815.ts
+#EXTINF:-1 tvg-id="KanalA.svn" tvg-name="SL: Kanal A HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SL: Kanal A HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355503.ts
+#EXTINF:-1 tvg-id="conf-23" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",19:45 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="5cc1e7c313fa7715a0551dc53cf892e4" tvg-name="PL: Da Vinci SD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: Da Vinci SD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372104.ts
+#EXTINF:-1 tvg-id="5cc1e7c313fa7715a0551dc53cf892e4" tvg-name="PL: Da Vinci" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: Da Vinci
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372105.ts
+#EXTINF:-1 tvg-id="babytv.nl" tvg-name="NL: BABY TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: BABY TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/356818.ts
+#EXTINF:-1 tvg-id="babytv.nl" tvg-name="NL: BABY TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: BABY TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/374201.ts
+#EXTINF:-1 tvg-id="raigulp.it" tvg-name="IT: Rai Gulp HDʀᴀᴡ" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",IT: Rai Gulp HDʀᴀᴡ
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/384351.ts
+#EXTINF:-1 tvg-id="conf-24" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",20:00 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="4816ad1c9335b77ab09370b016aa43db" tvg-name="HSE" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HSE
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394172.ts
+#EXTINF:-1 tvg-id="ATV2HD" tvg-name="ATV2 HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ATV2 HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394260.ts
+#EXTINF:-1 tvg-id="ATV2HD" tvg-name="ATV2 HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ATV2 HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394261.ts
+#EXTINF:-1 tvg-id="ATV2HD" tvg-name="ATV2 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ATV2 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/423525.ts
+#EXTINF:-1 tvg-id="ATV2HD" tvg-name="AT: ATV2 HD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AT: ATV2 HD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394298.ts
+#EXTINF:-1 tvg-id="ATV2HD" tvg-name="AT: ATV2 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AT: ATV2 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394299.ts
+#EXTINF:-1 tvg-id="SRF.zwei.ch" tvg-name="SRF zwei HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SRF zwei HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/364698.ts
+#EXTINF:-1 tvg-id="mtv.nl" tvg-name="NL: MTV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: MTV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/398008.ts
+#EXTINF:-1 tvg-id="slam.nl" tvg-name="NL: SLAM! TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: SLAM! TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/397996.ts
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="AR_NS| BBC WORLD NEWS HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AR_NS| BBC WORLD NEWS HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/387457.ts
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="USA -BBC-WORLD-NEWS" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",USA -BBC-WORLD-NEWS
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/360045.ts
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="LT: BBC WORLD NEWS HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",LT: BBC WORLD NEWS HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/418822.ts
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="LT: BBC World News FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",LT: BBC World News FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/418815.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="USA- CARTOON NETWORK" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",USA- CARTOON NETWORK
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/360063.ts
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="USA- MTV HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",USA- MTV HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/360085.ts
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="USA- MTV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",USA- MTV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/360086.ts
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="USA- NBC Sports Bay Area HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",USA- NBC Sports Bay Area HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/360702.ts
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="US: NBC SPORTS BAY AREA PLUS" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",US: NBC SPORTS BAY AREA PLUS
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/375836.ts
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="US: NBC SPORTS BAY AREA" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",US: NBC SPORTS BAY AREA
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/375837.ts
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: beIN SPORTS 1" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",FR: beIN SPORTS 1
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/446524.ts
+#EXTINF:-1 tvg-id="360tunebox.hu" tvg-name="HU: 360 Tune Box HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HU: 360 Tune Box HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442192.ts
+#EXTINF:-1 tvg-id="prva.rs" tvg-name="PRVA TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PRVA TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355411.ts
+#EXTINF:-1 tvg-id="prva.rs" tvg-name="PRVA TV FULL HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PRVA TV FULL HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355412.ts
+#EXTINF:-1 tvg-id="arenasport1x2.rs" tvg-name="ARENA SPORT 1x2 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ARENA SPORT 1x2 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355557.ts
+#EXTINF:-1 tvg-id="jugoton.hr" tvg-name="JUGOTON" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",JUGOTON
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355782.ts
+#EXTINF:-1 tvg-id="conf-25" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",20:15 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDFinfo SD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ZDFinfo SD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/438405.ts
+#EXTINF:-1 tvg-id="ATVHD" tvg-name="ATV HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ATV HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394258.ts
+#EXTINF:-1 tvg-id="ATVHD" tvg-name="ATV HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ATV HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394259.ts
+#EXTINF:-1 tvg-id="ATVHD" tvg-name="ATV HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ATV HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/423519.ts
+#EXTINF:-1 tvg-id="ATVHD" tvg-name="AT: ATV HD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AT: ATV HD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394296.ts
+#EXTINF:-1 tvg-id="ATVHD" tvg-name="AT: ATV HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AT: ATV HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394297.ts
+#EXTINF:-1 tvg-id="dk4.dk" tvg-name="DK: DK4 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",DK: DK4 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/441972.ts
+#EXTINF:-1 tvg-id="dk4.dk" tvg-name="DK: DK4" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",DK: DK4
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/441958.ts
+#EXTINF:-1 tvg-id="conf-26" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",20:30 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="nicktoons.ro" tvg-name="Nicktoons" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Nicktoons
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/352622.ts
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="AR_NS| BBC WORLD NEWS HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AR_NS| BBC WORLD NEWS HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/387457.ts
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="USA -BBC-WORLD-NEWS" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",USA -BBC-WORLD-NEWS
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/360045.ts
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="LT: BBC WORLD NEWS HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",LT: BBC WORLD NEWS HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/418822.ts
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="LT: BBC World News FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",LT: BBC World News FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/418815.ts
+#EXTINF:-1 tvg-id="DexyTV.rs" tvg-name="DEXY TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",DEXY TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355736.ts
+#EXTINF:-1 tvg-id="conf-27" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",20:45 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="5cc1e7c313fa7715a0551dc53cf892e4" tvg-name="PL: Da Vinci SD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: Da Vinci SD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372104.ts
+#EXTINF:-1 tvg-id="5cc1e7c313fa7715a0551dc53cf892e4" tvg-name="PL: Da Vinci" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: Da Vinci
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372105.ts
+#EXTINF:-1 tvg-id="La.Télé.ch" tvg-name="FR: la télé HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",FR: la télé HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/446366.ts
+#EXTINF:-1 tvg-id="conf-28" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",21:00 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="SERIENplusHD" tvg-name="SERIEN + HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SERIEN + HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393642.ts
+#EXTINF:-1 tvg-id="SERIENplusHD" tvg-name="SERIEN + HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SERIEN + HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393643.ts
+#EXTINF:-1 tvg-id="dummy-532" tvg-name="✦●✦ DE • RegioTV Mix ✦●✦" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",✦●✦ DE • RegioTV Mix ✦●✦
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394133.ts
+#EXTINF:-1 tvg-id="4816ad1c9335b77ab09370b016aa43db" tvg-name="HSE" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HSE
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394172.ts
+#EXTINF:-1 tvg-id="dummy-1988" tvg-name="✦●✦ UEFA LIVE EVENT MIX ✦●✦" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",✦●✦ UEFA LIVE EVENT MIX ✦●✦
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/416592.ts
+#EXTINF:-1 tvg-id="5cc1e7c313fa7715a0551dc53cf892e4" tvg-name="PL: Da Vinci SD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: Da Vinci SD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372104.ts
+#EXTINF:-1 tvg-id="5cc1e7c313fa7715a0551dc53cf892e4" tvg-name="PL: Da Vinci" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: Da Vinci
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372105.ts
+#EXTINF:-1 tvg-id="stingrayiconcertsHD.ro" tvg-name="Stingray iConcerts" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Stingray iConcerts
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/352556.ts
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="UK FHD  ITVBe" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK FHD  ITVBe
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361450.ts
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="UKHD ITVBe HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UKHD ITVBe HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361452.ts
+#EXTINF:-1 tvg-id="tv538.nl" tvg-name="NL: TV 538" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: TV 538
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/398012.ts
+#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="NL: 100% NL TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: 100% NL TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/397997.ts
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="USA- OXYGEN" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",USA- OXYGEN
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/359937.ts
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="US: OXYGEN" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",US: OXYGEN
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/375740.ts
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="US: OXYGEN" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",US: OXYGEN
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/375741.ts
+#EXTINF:-1 tvg-id="muzsikatv.hu" tvg-name="HU: Muzsika TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HU: Muzsika TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442139.ts
+#EXTINF:-1 tvg-id="360tunebox.hu" tvg-name="HU: 360 Tune Box HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HU: 360 Tune Box HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442192.ts
+#EXTINF:-1 tvg-id="stingrayiconcerts.hu" tvg-name="HU: Stingray iConcerts" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HU: Stingray iConcerts
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442121.ts
+#EXTINF:-1 tvg-id="RTB.hr" tvg-name="RTL ADRIA HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",RTL ADRIA HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355474.ts
+#EXTINF:-1 tvg-id="jugoton.hr" tvg-name="JUGOTON" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",JUGOTON
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355782.ts
+#EXTINF:-1 tvg-id="stingrayiconcerts.ro" tvg-name="CZ: Stingray iConcerts HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",CZ: Stingray iConcerts HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/441229.ts
+#EXTINF:-1 tvg-id="conf-29" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",21:15 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="USA- HBO SIGNATURE" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",USA- HBO SIGNATURE
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/359912.ts
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="BR: HBO SIGNATURE FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",BR: HBO SIGNATURE FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/397724.ts
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="BR: HBO SIGNATURE HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",BR: HBO SIGNATURE HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/397914.ts
+#EXTINF:-1 tvg-id="conf-30" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",21:30 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="5cc1e7c313fa7715a0551dc53cf892e4" tvg-name="PL: Da Vinci SD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: Da Vinci SD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372104.ts
+#EXTINF:-1 tvg-id="5cc1e7c313fa7715a0551dc53cf892e4" tvg-name="PL: Da Vinci" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: Da Vinci
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372105.ts
+#EXTINF:-1 tvg-id="conf-31" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",21:45 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="CrimeTimeHD" tvg-name="Crime Time HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Crime Time HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394003.ts
+#EXTINF:-1 tvg-id="CrimeTimeHD" tvg-name="Crime Time HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Crime Time HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394004.ts
+#EXTINF:-1 tvg-id="lfctv.uk" tvg-name="HEVC FHD LFC" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC FHD LFC
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361862.ts
+#EXTINF:-1 tvg-id="conf-32" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",22:00 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="RadioBremenHD" tvg-name="Radio Bremen TV HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Radio Bremen TV HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393662.ts
+#EXTINF:-1 tvg-id="RadioBremenHD" tvg-name="Radio Bremen TV HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Radio Bremen TV HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393663.ts
+#EXTINF:-1 tvg-id="RadioBremenHD" tvg-name="Radio Bremen TV HDraw Cable" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Radio Bremen TV HDraw Cable
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393664.ts
+#EXTINF:-1 tvg-id="RadioBremenHD" tvg-name="Radio Bremen TV HD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Radio Bremen TV HD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393799.ts
+#EXTINF:-1 tvg-id="RadioBremenHD" tvg-name="Radio Bremen TV HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Radio Bremen TV HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393800.ts
+#EXTINF:-1 tvg-id="RadioBremenHD" tvg-name="Radio Bremen TV SD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Radio Bremen TV SD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/438368.ts
+#EXTINF:-1 tvg-id="hrfernsehenHD" tvg-name="HR-Fernsehen HDʀᴀᴡ" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HR-Fernsehen HDʀᴀᴡ
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394076.ts
+#EXTINF:-1 tvg-id="hrfernsehenHD" tvg-name="HR-Fernsehen HDʀᴀᴡ²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HR-Fernsehen HDʀᴀᴡ²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394077.ts
+#EXTINF:-1 tvg-id="hrfernsehenHD" tvg-name="HR-Fernsehen FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HR-Fernsehen FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394134.ts
+#EXTINF:-1 tvg-id="hrfernsehenHD" tvg-name="HR-Fernsehen HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HR-Fernsehen HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394135.ts
+#EXTINF:-1 tvg-id="NDRFSHHHD" tvg-name="NDR FS HH HDʀᴀᴡ" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NDR FS HH HDʀᴀᴡ
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394110.ts
+#EXTINF:-1 tvg-id="NDRFSHHHD" tvg-name="NDR FS HH HDʀᴀᴡ²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NDR FS HH HDʀᴀᴡ²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394111.ts
+#EXTINF:-1 tvg-id="NDRFSSHHD" tvg-name="NDR FS SH HDʀᴀᴡ" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NDR FS SH HDʀᴀᴡ
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394112.ts
+#EXTINF:-1 tvg-id="NDRFSSHHD" tvg-name="NDR FS SH HDʀᴀᴡ²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NDR FS SH HDʀᴀᴡ²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394113.ts
+#EXTINF:-1 tvg-id="NDRFSMVHD" tvg-name="NDR FS MV HDʀᴀᴡ" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NDR FS MV HDʀᴀᴡ
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394114.ts
+#EXTINF:-1 tvg-id="NDRFSMVHD" tvg-name="NDR FS MV HDʀᴀᴡ²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NDR FS MV HDʀᴀᴡ²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394115.ts
+#EXTINF:-1 tvg-id="NDRFSMVHD" tvg-name="NDR MV FHD Web" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NDR MV FHD Web
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394159.ts
+#EXTINF:-1 tvg-id="NDRFSNDSHD" tvg-name="NDR FS NDS HDʀᴀᴡ" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NDR FS NDS HDʀᴀᴡ
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394116.ts
+#EXTINF:-1 tvg-id="NDRFSNDSHD" tvg-name="NDR FS NDS HDʀᴀᴡ²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NDR FS NDS HDʀᴀᴡ²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394117.ts
+#EXTINF:-1 tvg-id="NDRFSNDSHD" tvg-name="NDR FS NDS FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NDR FS NDS FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394155.ts
+#EXTINF:-1 tvg-id="NDRFSNDSHD" tvg-name="NDR FS NDS HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NDR FS NDS HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394156.ts
+#EXTINF:-1 tvg-id="NDRFSNDSHD" tvg-name="NDR Fernsehen FHD Web" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NDR Fernsehen FHD Web
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394158.ts
+#EXTINF:-1 tvg-id="4816ad1c9335b77ab09370b016aa43db" tvg-name="HSE" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HSE
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394172.ts
+#EXTINF:-1 tvg-id="loveworld.uk" tvg-name="UKFHD: LoveWorld" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UKFHD: LoveWorld
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361461.ts
+#EXTINF:-1 tvg-id="360 TuneBox HD" tvg-name="ALB: 360 TuneBox HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ALB: 360 TuneBox HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/435763.ts
+#EXTINF:-1 tvg-id="360 TuneBox HD" tvg-name="CZ: 360 Tune Box HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",CZ: 360 Tune Box HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/441261.ts
+#EXTINF:-1 tvg-id="360tunebox.hu" tvg-name="HU: 360 Tune Box HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HU: 360 Tune Box HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442192.ts
+#EXTINF:-1 tvg-id="iconcerts.pt" tvg-name="LT: ICONCERTS FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",LT: ICONCERTS FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/418835.ts
+#EXTINF:-1 tvg-id="iconcerts.pt" tvg-name="LT: ICONCERTS HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",LT: ICONCERTS HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/418805.ts
+#EXTINF:-1 tvg-id="conf-33" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",22:15 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="CA:Nat GEO Wild HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",CA:Nat GEO Wild HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/356665.ts
+#EXTINF:-1 tvg-id="conf-34" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",22:30 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394622.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394623.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News HDraw Cable" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News HDraw Cable
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394624.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News FHD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394677.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394678.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394679.ts
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News (Mobil)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport News (Mobil)
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394459.ts
+#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="UK: TNT Sports 3 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: TNT Sports 3 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/396284.ts
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="HEVC FHD MUTV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC FHD MUTV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361864.ts
+#EXTINF:-1 tvg-id="arenasport1x2.rs" tvg-name="ARENA SPORT 1x2 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ARENA SPORT 1x2 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355557.ts
+#EXTINF:-1 tvg-id="conf-35" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",22:45 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="ATVHD" tvg-name="ATV HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ATV HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394258.ts
+#EXTINF:-1 tvg-id="ATVHD" tvg-name="ATV HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ATV HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394259.ts
+#EXTINF:-1 tvg-id="ATVHD" tvg-name="ATV HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ATV HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/423519.ts
+#EXTINF:-1 tvg-id="ATVHD" tvg-name="AT: ATV HD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AT: ATV HD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394296.ts
+#EXTINF:-1 tvg-id="ATVHD" tvg-name="AT: ATV HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AT: ATV HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394297.ts
+#EXTINF:-1 tvg-id="conf-36" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",23:00 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="ZDFinfoHD" tvg-name="ZDF Info HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ZDF Info HDraw
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393996.ts
+#EXTINF:-1 tvg-id="ZDFinfoHD" tvg-name="ZDF Info HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ZDF Info HDraw²
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393997.ts
+#EXTINF:-1 tvg-id="ZDFinfoHD" tvg-name="ZDF Info HDraw Cable" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ZDF Info HDraw Cable
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393998.ts
+#EXTINF:-1 tvg-id="ZDFinfoHD" tvg-name="ZDF Info FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ZDF Info FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394047.ts
+#EXTINF:-1 tvg-id="ZDFinfoHD" tvg-name="ZDF Info HD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ZDF Info HD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394048.ts
+#EXTINF:-1 tvg-id="ZDFinfoHD" tvg-name="ZDF Info HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ZDF Info HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394049.ts
+#EXTINF:-1 tvg-id="dummy-532" tvg-name="✦●✦ DE • RegioTV Mix ✦●✦" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",✦●✦ DE • RegioTV Mix ✦●✦
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394133.ts
+#EXTINF:-1 tvg-id="4816ad1c9335b77ab09370b016aa43db" tvg-name="HSE" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HSE
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394172.ts
+#EXTINF:-1 tvg-id="ducktv.ro" tvg-name="duck TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",duck TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/423502.ts
+#EXTINF:-1 tvg-id="ducktv.ro" tvg-name="Duck TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Duck TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/352616.ts
+#EXTINF:-1 tvg-id="dummy-1988" tvg-name="✦●✦ UEFA LIVE EVENT MIX ✦●✦" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",✦●✦ UEFA LIVE EVENT MIX ✦●✦
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/416592.ts
+#EXTINF:-1 tvg-id="tvr3.ro" tvg-name="TVR 3" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",TVR 3
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/352432.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1 FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS F1 FHD+
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426255.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1 FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS F1 FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426256.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: SKY SPORTS F1 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/426257.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UKFHD | Sky Sports F1 50FPS FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UKFHD | Sky Sports F1 50FPS FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361973.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="HEVC FHD Sky Sports F1" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC FHD Sky Sports F1
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361974.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="HEVC HD Sky Sports F1" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC HD Sky Sports F1
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361975.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UKHD Sky Sports F1 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UKHD Sky Sports F1 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361976.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="VIP SPORT: SKY SPORTS F1 (UK)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",VIP SPORT: SKY SPORTS F1 (UK)
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/237675.ts
+#EXTINF:-1 tvg-id="babytv.nl" tvg-name="NL: BABY TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: BABY TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/356818.ts
+#EXTINF:-1 tvg-id="babytv.nl" tvg-name="NL: BABY TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: BABY TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/374201.ts
+#EXTINF:-1 tvg-id="fightbox.hu" tvg-name="HU: FIGHTBOX" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HU: FIGHTBOX
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442172.ts
+#EXTINF:-1 tvg-id="conf-37" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",23:15 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDFinfo SD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ZDFinfo SD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/438405.ts
+#EXTINF:-1 tvg-id="babytv.nl" tvg-name="NL: BABY TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: BABY TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/356818.ts
+#EXTINF:-1 tvg-id="babytv.nl" tvg-name="NL: BABY TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: BABY TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/374201.ts
+#EXTINF:-1 tvg-id="conf-38" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",23:30 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="bluesportd2.ch" tvg-name="Blue Sport D2 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Blue Sport D2 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/78823.ts
+#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="UK: TNT Sports 3 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",UK: TNT Sports 3 HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/396284.ts
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="HEVC FHD MUTV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",HEVC FHD MUTV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/361864.ts
+#EXTINF:-1 tvg-id="babytv.nl" tvg-name="NL: BABY TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: BABY TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/356818.ts
+#EXTINF:-1 tvg-id="babytv.nl" tvg-name="NL: BABY TV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: BABY TV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/374201.ts
+#EXTINF:-1 tvg-id="arenafight.rs" tvg-name="ARENA FIGHT HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ARENA FIGHT HD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355582.ts
+#EXTINF:-1 tvg-id="MTV.hr" tvg-name="MTV" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",MTV
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355787.ts
+#EXTINF:-1 tvg-id="conf-39" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",23:45 ⚽ Conference
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
+#EXTINF:-1 tvg-id="moonbug.no" tvg-name="NO: Moonbug" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NO: Moonbug
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/441206.ts
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES| PARAMOUNT CHANNEL HEVC" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ES| PARAMOUNT CHANNEL HEVC
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/445783.ts
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES| PARAMOUNT CHANNEL FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ES| PARAMOUNT CHANNEL FHD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/445784.ts
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES| PARAMOUNT CHANNEL SD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ES| PARAMOUNT CHANNEL SD
+http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/445785.ts
+#EXTINF:-1 tvg-id="dummy-40" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/109.png" group-title="🔴 LIVE SPORT (Falcon)",17:45
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="tvpsport.pl" tvg-name="PL: TVP Sport HDʀᴀᴡ" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: TVP Sport HDʀᴀᴡ
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372274.ts
 #EXTINF:-1 tvg-id="tvpsport.pl" tvg-name="PL: TVP Sport HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: TVP Sport HD
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/375189.ts
-#EXTINF:-1 tvg-id="dummy-2" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/203.png" group-title="🔴 LIVE SPORT (Falcon)",18:00
+#EXTINF:-1 tvg-id="dummy-41" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/203.png" group-title="🔴 LIVE SPORT (Falcon)",18:00
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="beinsports.us" tvg-name="AR- Bein Sports:HD5" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AR- Bein Sports:HD5
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/396561.ts
@@ -33,7 +991,7 @@ http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/168880.ts
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/168882.ts
 #EXTINF:-1 tvg-id="beinsports.us" tvg-name="AR- Bein Sports:HD7" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",AR- Bein Sports:HD7
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/168884.ts
-#EXTINF:-1 tvg-id="dummy-3" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/106.png" group-title="🔴 LIVE SPORT (Falcon)",18:00
+#EXTINF:-1 tvg-id="dummy-42" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/106.png" group-title="🔴 LIVE SPORT (Falcon)",18:00
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="canal+sport3.pl" tvg-name="PL: Canal+ Sport 3" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: Canal+ Sport 3
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372251.ts
@@ -41,24 +999,8 @@ http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372251.ts
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372305.ts
 #EXTINF:-1 tvg-id="canal+sport5.pl" tvg-name="PL: Canal+ Sport 5 FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: Canal+ Sport 5 FHD
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372254.ts
-#EXTINF:-1 tvg-id="dummy-4" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/79.png" group-title="🔴 LIVE SPORT (Falcon)",18:30
+#EXTINF:-1 tvg-id="dummy-43" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/79.png" group-title="🔴 LIVE SPORT (Falcon)",18:30
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
-#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 HDraw
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394540.ts
-#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 HDraw²
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394541.ts
-#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 HDraw Cable" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 HDraw Cable
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394542.ts
-#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 FHD+
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394585.ts
-#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 FHD
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394586.ts
-#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 HD (AT)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 HD (AT)
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394587.ts
-#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 HD
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394588.ts
-#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 (Mobil)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 (Mobil)
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394466.ts
 #EXTINF:-1 tvg-id="f84a2c0211160c0ac5dc525ad6572a34" tvg-name="Sky Bundesliga 4 HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 4 HDraw
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394548.ts
 #EXTINF:-1 tvg-id="f84a2c0211160c0ac5dc525ad6572a34" tvg-name="Sky Bundesliga 4 HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 4 HDraw²
@@ -75,44 +1017,14 @@ http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394595.ts
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394596.ts
 #EXTINF:-1 tvg-id="f84a2c0211160c0ac5dc525ad6572a34" tvg-name="Sky Bundesliga 4 (Mobil)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 4 (Mobil)
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394468.ts
-#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event HDraw
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394626.ts
-#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event HDraw²
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394627.ts
-#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event HDʀᴀᴡ Cable" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event HDʀᴀᴡ Cable
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394628.ts
-#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event FHD+
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394680.ts
-#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event FHD
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394681.ts
-#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event HD
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394682.ts
-#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event (Mobil)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event (Mobil)
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394460.ts
 #EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="PL: Eleven Sports 3 HDʀᴀᴡ" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: Eleven Sports 3 HDʀᴀᴡ
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372264.ts
 #EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="PL: Eleven Sports 3" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: Eleven Sports 3
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372265.ts
 #EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="Portugal- Eleven Sports 3" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Portugal- Eleven Sports 3
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/168961.ts
-#EXTINF:-1 tvg-id="dummy-5" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/79.png" group-title="🔴 LIVE SPORT (Falcon)",18:30
+#EXTINF:-1 tvg-id="dummy-44" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/79.png" group-title="🔴 LIVE SPORT (Falcon)",18:30
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
-#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 HDraw
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394540.ts
-#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 HDraw²
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394541.ts
-#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 HDraw Cable" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 HDraw Cable
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394542.ts
-#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 FHD+
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394585.ts
-#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 FHD
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394586.ts
-#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 HD (AT)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 HD (AT)
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394587.ts
-#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 HD
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394588.ts
-#EXTINF:-1 tvg-id="44ca1aa29408dcbc6e94799fc11619a8" tvg-name="Sky Bundesliga 2 (Mobil)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 2 (Mobil)
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394466.ts
 #EXTINF:-1 tvg-id="021d6f0317ee63e7b14294cfe654406a" tvg-name="Sky Bundesliga 3 HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 3 HDraw
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394544.ts
 #EXTINF:-1 tvg-id="021d6f0317ee63e7b14294cfe654406a" tvg-name="Sky Bundesliga 3 HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 3 HDraw²
@@ -129,21 +1041,7 @@ http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394591.ts
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394592.ts
 #EXTINF:-1 tvg-id="021d6f0317ee63e7b14294cfe654406a" tvg-name="Sky Bundesliga 3 (Mobil)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Bundesliga 3 (Mobil)
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394467.ts
-#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event HDraw
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394626.ts
-#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event HDraw²" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event HDraw²
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394627.ts
-#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event HDʀᴀᴡ Cable" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event HDʀᴀᴡ Cable
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394628.ts
-#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event FHD+" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event FHD+
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394680.ts
-#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event FHD
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394681.ts
-#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event HD
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394682.ts
-#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="Sky Sport Top Event (Mobil)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Sport Top Event (Mobil)
-http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394460.ts
-#EXTINF:-1 tvg-id="dummy-6" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/80.png" group-title="🔴 LIVE SPORT (Falcon)",19:00
+#EXTINF:-1 tvg-id="dummy-45" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/80.png" group-title="🔴 LIVE SPORT (Falcon)",19:00
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="sport1myteamtv.de" tvg-name="myTeamTV Sport 1 FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",myTeamTV Sport 1 FHD
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394775.ts
@@ -151,33 +1049,33 @@ http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394775.ts
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394776.ts
 #EXTINF:-1 tvg-id="sport1myteamtv.de" tvg-name="myTeamTV Sport 1 (Mobil)" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",myTeamTV Sport 1 (Mobil)
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394475.ts
-#EXTINF:-1 tvg-id="dummy-7" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/62.png" group-title="🔴 LIVE SPORT (Falcon)",20:00
+#EXTINF:-1 tvg-id="dummy-46" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/62.png" group-title="🔴 LIVE SPORT (Falcon)",20:00
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="beinsportsmax8.fr" tvg-name="FR: beIN SPORTS MAX 8" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",FR: beIN SPORTS MAX 8
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/446516.ts
-#EXTINF:-1 tvg-id="dummy-8" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/62.png" group-title="🔴 LIVE SPORT (Falcon)",20:00
+#EXTINF:-1 tvg-id="dummy-47" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/62.png" group-title="🔴 LIVE SPORT (Falcon)",20:00
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="beinsportsmax7.fr" tvg-name="FR: beIN SPORTS MAX 7" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",FR: beIN SPORTS MAX 7
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/446517.ts
-#EXTINF:-1 tvg-id="dummy-9" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/89.png" group-title="🔴 LIVE SPORT (Falcon)",20:00
+#EXTINF:-1 tvg-id="dummy-48" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/89.png" group-title="🔴 LIVE SPORT (Falcon)",20:00
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="fox.nl" tvg-name="NL: FOX FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: FOX FHD
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/374116.ts
 #EXTINF:-1 tvg-id="fox.nl" tvg-name="NL: FOX" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NL: FOX
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/374117.ts
-#EXTINF:-1 tvg-id="dummy-10" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/62.png" group-title="🔴 LIVE SPORT (Falcon)",20:00
+#EXTINF:-1 tvg-id="dummy-49" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/62.png" group-title="🔴 LIVE SPORT (Falcon)",20:00
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="beinsportsmax6.fr" tvg-name="FR: beIN SPORTS MAX 6" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",FR: beIN SPORTS MAX 6
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/446518.ts
-#EXTINF:-1 tvg-id="dummy-11" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/62.png" group-title="🔴 LIVE SPORT (Falcon)",20:00
+#EXTINF:-1 tvg-id="dummy-50" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/62.png" group-title="🔴 LIVE SPORT (Falcon)",20:00
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="beinsportsmax5.fr" tvg-name="FR: beIN SPORTS MAX 5" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",FR: beIN SPORTS MAX 5
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/446519.ts
-#EXTINF:-1 tvg-id="dummy-12" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/62.png" group-title="🔴 LIVE SPORT (Falcon)",20:00
+#EXTINF:-1 tvg-id="dummy-51" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/62.png" group-title="🔴 LIVE SPORT (Falcon)",20:00
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="beinsportsmax4.fr" tvg-name="FR: beIN SPORTS MAX 4" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",FR: beIN SPORTS MAX 4
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/446520.ts
-#EXTINF:-1 tvg-id="dummy-13" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/88.png" group-title="🔴 LIVE SPORT (Falcon)",20:00
+#EXTINF:-1 tvg-id="dummy-52" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/88.png" group-title="🔴 LIVE SPORT (Falcon)",20:00
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="SportdigitalFussball.de" tvg-name="SPORTDIGITAL FUSSBALL" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SPORTDIGITAL FUSSBALL
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/423459.ts
@@ -197,7 +1095,7 @@ http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394884.ts
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/352637.ts
 #EXTINF:-1 tvg-id="primasport5.ro" tvg-name="Prima Sport 5 FHD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Prima Sport 5 FHD
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/352632.ts
-#EXTINF:-1 tvg-id="dummy-14" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/208.png" group-title="🔴 LIVE SPORT (Falcon)",20:15
+#EXTINF:-1 tvg-id="dummy-53" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/208.png" group-title="🔴 LIVE SPORT (Falcon)",20:15
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="blue.Zoom.D.ch" tvg-name="Blue Zoom D HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Blue Zoom D HD
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/364726.ts
@@ -209,7 +1107,7 @@ http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/375152.ts
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/375157.ts
 #EXTINF:-1 tvg-id="bluesportd1.ch" tvg-name="Blue Sport D1 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Blue Sport D1 HD
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/78822.ts
-#EXTINF:-1 tvg-id="dummy-15" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/78.png" group-title="🔴 LIVE SPORT (Falcon)",20:30
+#EXTINF:-1 tvg-id="dummy-54" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/78.png" group-title="🔴 LIVE SPORT (Falcon)",20:30
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="2e4e1e545888440dd613cfe3a78b3d91" tvg-name="Sky Showcase HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Sky Showcase HDraw
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/393860.ts
@@ -281,7 +1179,7 @@ http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372255.ts
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372256.ts
 #EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL: Eleven Sports 1" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: Eleven Sports 1
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372259.ts
-#EXTINF:-1 tvg-id="dummy-16" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/45.png" group-title="🔴 LIVE SPORT (Falcon)",20:30
+#EXTINF:-1 tvg-id="dummy-55" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/45.png" group-title="🔴 LIVE SPORT (Falcon)",20:30
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",DAZN 1 HDraw
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394913.ts
@@ -305,13 +1203,13 @@ http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394921.ts
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394457.ts
 #EXTINF:-1 tvg-id="arenasport1x2.rs" tvg-name="ARENA SPORT 1x2 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ARENA SPORT 1x2 HD
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355557.ts
-#EXTINF:-1 tvg-id="dummy-17" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/106.png" group-title="🔴 LIVE SPORT (Falcon)",20:30
+#EXTINF:-1 tvg-id="dummy-56" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/106.png" group-title="🔴 LIVE SPORT (Falcon)",20:30
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="canal+sport3.pl" tvg-name="PL: Canal+ Sport 3" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: Canal+ Sport 3
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372251.ts
 #EXTINF:-1 tvg-id="canal+sport3.pl" tvg-name="PL: Canal+ Sport 3 HDraw" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: Canal+ Sport 3 HDraw
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372305.ts
-#EXTINF:-1 tvg-id="dummy-18" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/140.png" group-title="🔴 LIVE SPORT (Falcon)",21:00
+#EXTINF:-1 tvg-id="dummy-57" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/140.png" group-title="🔴 LIVE SPORT (Falcon)",21:00
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="bluesport2.ch" tvg-name="Blue Sport 2 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Blue Sport 2 HD
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/375154.ts
@@ -367,7 +1265,7 @@ http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/442126.ts
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355559.ts
 #EXTINF:-1 tvg-id="premiersports1.uk" tvg-name="Now HK Premier Sports 1" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Now HK Premier Sports 1
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/168942.ts
-#EXTINF:-1 tvg-id="dummy-19" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/40.png" group-title="🔴 LIVE SPORT (Falcon)",21:00
+#EXTINF:-1 tvg-id="dummy-58" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/40.png" group-title="🔴 LIVE SPORT (Falcon)",21:00
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="vsport2.no" tvg-name="NO: V sport 2 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",NO: V sport 2 HD
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/441166.ts
@@ -395,7 +1293,7 @@ http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/237670.ts
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355570.ts
 #EXTINF:-1 tvg-id="Setanta Sports 1 Baltic HD" tvg-name="Setanta Sports 1 Baltic HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",Setanta Sports 1 Baltic HD
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/430154.ts
-#EXTINF:-1 tvg-id="dummy-20" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/94.png" group-title="🔴 LIVE SPORT (Falcon)",21:15
+#EXTINF:-1 tvg-id="dummy-59" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/94.png" group-title="🔴 LIVE SPORT (Falcon)",21:15
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL: Eleven Sports 2 HDʀᴀᴡ" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",PL: Eleven Sports 2 HDʀᴀᴡ
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372261.ts
@@ -403,7 +1301,7 @@ http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372261.ts
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/372262.ts
 #EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="SPORTING TV HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",SPORTING TV HD
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/341316.ts
-#EXTINF:-1 tvg-id="dummy-21" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/128.png" group-title="🔴 LIVE SPORT (Falcon)",23:00
+#EXTINF:-1 tvg-id="dummy-60" tvg-logo="https://kaot.github.io/iptv-playlists/football_league_logos/128.png" group-title="🔴 LIVE SPORT (Falcon)",23:00
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="ArenaSportPremium3.rs" tvg-name="ARENA PREMIUM 3 HD" tvg-logo="https://kaot.github.io/iptv-playlists/transparent_96x96.png" group-title="🔴 LIVE SPORT (Falcon)",ARENA PREMIUM 3 HD
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/355560.ts
