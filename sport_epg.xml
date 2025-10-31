@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="IPTV Sport" generator-info-url="claude-iptv">
+  <channel id="dummy-1">
+    <display-name>🟢 09:35 ⚽ Brisbane Roar - Melbourne City</display-name>
+    <icon src="https://i.imgur.com/NDbWxqF.png" />
+  </channel>
+  <channel id="dummy-2">
+    <display-name>🟢 11:45 ⚽ Perth Glory - Melbourne Victory</display-name>
+    <icon src="https://i.imgur.com/NDbWxqF.png" />
+  </channel>
+  <channel id="dummy-3">
+    <display-name>🟢 16:30 🇷🇴 Politehnica Iasi - Bihor Oradea</display-name>
+    <icon src="https://i.imgur.com/NDbWxqF.png" />
+  </channel>
   <channel id="021d6f0317ee63e7b14294cfe654406a">
     <display-name>Sky Bundesliga 3 (Mobil)</display-name>
     <icon src="https://i.ibb.co/jZZv7BH/Sky-Sport-Bundesliga-3-Logo-2020.png" />
@@ -567,6 +579,18 @@
     <display-name>NL: ZIGGO SPORT VOETBAL HD</display-name>
     <icon src="http://onecentcdn.com/newpicon/nl-sport/ziggo-sport-voetball.png" />
   </channel>
+  <programme channel="dummy-1" start="20251031000000 +0100" stop="20251031235900 +0100">
+    <title>A-League: Brisbane Roar - Melbourne City</title>
+    <desc>Live-Fußball aus der A-League</desc>
+  </programme>
+  <programme channel="dummy-2" start="20251031000000 +0100" stop="20251031235900 +0100">
+    <title>A-League: Perth Glory - Melbourne Victory</title>
+    <desc>Live-Fußball aus der A-League</desc>
+  </programme>
+  <programme channel="dummy-3" start="20251031000000 +0100" stop="20251031235900 +0100">
+    <title>Liga II: Politehnica Iasi - Bihor Oradea</title>
+    <desc>Live-Fußball aus der rumänischen Liga II</desc>
+  </programme>
   <programme channel="RadioBremenHD" start="20251031100000 +0100" stop="20251031103000 +0100">
     <title>Schleswig-Holstein Magazin</title>
     <desc>Themen u.a.:* Blick auf den berühmten Strand von St. Peter-Ording: Ist der in 37 Jahren weg?* Corona in SH: Wie sehr ist der Virus noch in den Köpfen der Menschen?* Rechtsstreit um Bahnstrecke Kiel-Hamburg: Verhandlung am Oberlandesgericht Schleswig * Weltspartag: Welche Banken nehmen noch Kleingeld an?* Sportlich aktiv: Reporter Samir Chawki und sein Blick auf das Sportland SH* Verliebt auf Helgoland: Ausblick auf den Nordseereport</desc>
