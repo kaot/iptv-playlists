@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="dummy-1" group-title="🔴 LIVE SPORT (Fox)",🟢 09:35 ⚽ Brisbane Roar - Melbourne City (A-League)
+#EXTINF:-1 tvg-id="dummy-1" tvg-logo="https://kaot.github.io/iptv-playlists/green_square.svg" group-title="🔴 LIVE SPORT (Fox)",🇦🇺 09:35 Uhr
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="UK: TNT Sports 2 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3627.png" group-title="🔴 LIVE SPORT (Fox)",UK: TNT Sports 2 HD
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/396283.ts
 #EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="BR: TNT SPORTS 02 HD" tvg-logo="https://lo1.in/BR/flag.png" group-title="🔴 LIVE SPORT (Fox)",BR: TNT SPORTS 02 HD
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/397873.ts
-#EXTINF:-1 tvg-id="dummy-2" group-title="🔴 LIVE SPORT (Fox)",🟢 11:45 ⚽ Perth Glory - Melbourne Victory (A-League)
+#EXTINF:-1 tvg-id="dummy-2" tvg-logo="https://kaot.github.io/iptv-playlists/green_square.svg" group-title="🔴 LIVE SPORT (Fox)",🇦🇺 11:45 Uhr
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="SportdigitalFussball.de" tvg-name="SPORTDIGITAL FUSSBALL" tvg-logo="https://i.imgur.com/NDbWxqF.png" group-title="🔴 LIVE SPORT (Fox)",SPORTDIGITAL FUSSBALL
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/423459.ts
@@ -25,7 +25,7 @@ http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/394884.ts
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/396283.ts
 #EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="BR: TNT SPORTS 02 HD" tvg-logo="https://lo1.in/BR/flag.png" group-title="🔴 LIVE SPORT (Fox)",BR: TNT SPORTS 02 HD
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/397873.ts
-#EXTINF:-1 tvg-id="dummy-3" group-title="🔴 LIVE SPORT (Fox)",🟢 16:30 🇷🇴 Politehnica Iasi - Bihor Oradea (Liga II)
+#EXTINF:-1 tvg-id="dummy-3" tvg-logo="https://kaot.github.io/iptv-playlists/green_square.svg" group-title="🔴 LIVE SPORT (Fox)",🇷🇴 16:30 Uhr
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/separator.ts
 #EXTINF:-1 tvg-id="digisport1.ro" tvg-name="DIGI Sport 1" tvg-logo="http://it.mcmotors.top:8080/images/DPqpU_e7i6G_cnTaZtR9pZ_aVaTYZcJQ7q4SeCbDwx90bQLTsuzkVbX99KiJcaU7yyCaCgBm6Sw37tdQR69oAA.png" group-title="🔴 LIVE SPORT (Fox)",DIGI Sport 1
 http://vennetv.cx/live/8RYm8Fwq7h/tRJ9TAaWga/352455.ts
