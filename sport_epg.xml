@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="IPTV Sport" generator-info-url="claude-iptv">
   <channel id="dummy-1">
-    <display-name>19:00</display-name>
+    <display-name>23:00</display-name>
   </channel>
   <channel id="dummy-2">
     <display-name>20:00</display-name>
@@ -44,9 +44,6 @@
   </channel>
   <channel id="dummy-15">
     <display-name>21:15</display-name>
-  </channel>
-  <channel id="dummy-16">
-    <display-name>23:00</display-name>
   </channel>
   <channel id="2e4e1e545888440dd613cfe3a78b3d91">
     <display-name>Sky Showcase SD</display-name>
@@ -188,10 +185,6 @@
     <display-name>HU: Spiler2</display-name>
     <icon src="https://logo.m3uassets.com/spiler2.png" />
   </channel>
-  <channel id="sport1myteamtv.de">
-    <display-name>myTeamTV Sport 1 (Mobil)</display-name>
-    <icon src="https://ngiss.t-online.de/iss?client=ngtv&amp;ar=keep&amp;x=120&amp;y=48&amp;src=http%3A%2F%2Fngiss.t-online.de%2Fcm1s%2Fmedia%2F98154b022b1cd559da555d70d6343b5d8cfb13ce.png&amp;out=webp" />
-  </channel>
   <channel id="sportingtv.pt">
     <display-name>SPORTING TV HD</display-name>
     <icon src="https://i.imgur.com/GOlNfTo.png" />
@@ -213,8 +206,8 @@
     <icon src="http://onecentcdn.com/newpicon/nl-sport/ziggo-sport-voetball.png" />
   </channel>
   <programme channel="dummy-1" start="20251031000000 +0100" stop="20251031235900 +0100">
-    <title>🇩🇪 FC Viktoria Köln - FC Ingolstadt 04 (3. Liga)</title>
-    <desc>Live-Fußball aus Germany</desc>
+    <title>🇦🇷 San Lorenzo - Deportivo Riestra (Liga Profesional Argentina)</title>
+    <desc>Live-Fußball aus Argentina</desc>
   </programme>
   <programme channel="dummy-2" start="20251031000000 +0100" stop="20251031235900 +0100">
     <title>🇫🇷 Annecy - Boulogne (Ligue 2)</title>
@@ -271,10 +264,6 @@
   <programme channel="dummy-15" start="20251031000000 +0100" stop="20251031235900 +0100">
     <title>🇵🇹 Sporting CP - Alverca (Primeira Liga)</title>
     <desc>Live-Fußball aus Portugal</desc>
-  </programme>
-  <programme channel="dummy-16" start="20251031000000 +0100" stop="20251031235900 +0100">
-    <title>🇦🇷 San Lorenzo - Deportivo Riestra (Liga Profesional Argentina)</title>
-    <desc>Live-Fußball aus Argentina</desc>
   </programme>
   <programme channel="2e4e1e545888440dd613cfe3a78b3d91" start="20251031170500 +0100" stop="20251031180000 +0100">
     <title>Hubert und Staller</title>
@@ -751,14 +740,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
     <title>BL: FC Bayern München - Bayer Leverkusen, tipico Topspiel der Woche, 9. Spieltag</title>
     <desc>Nicht zu stoppen: Die Bayern haben in der Liga noch kein Spiel verloren und sind seit Wochen in bestechender Form. Kann Leverkusen den FCB ärgern? Kommentar: Wolff Fuss.</desc>
   </programme>
-  <programme channel="a7c5ec93d76529e931f02225c031ddad" start="20251031161500 +0100" stop="20251031164500 +0100">
-    <title>BL: BVB-Herstory - Der Dortmunder Weg nach oben (Neuland)</title>
-    <desc>Seit ein paar Jahren hat auch der BVB eine Abteilung für Frauen- und Mädchenfußball. Sky blickt auf den bisherigen Weg nach oben. Diesmal im Fokus: U.a. der Pokalkracher gegen den FC Bayern München.</desc>
-  </programme>
-  <programme channel="a7c5ec93d76529e931f02225c031ddad" start="20251031164500 +0100" stop="20251031171500 +0100">
-    <title>BL: Im Herzen von Europa - Das Eintracht Magazin</title>
-    <desc>Im Herzen von Europa: In dem Eintracht Magazin bekommst du die Einblicke zu allen Themen rund um Eintracht Frankfurt direkt vom Verein.</desc>
-  </programme>
   <programme channel="a7c5ec93d76529e931f02225c031ddad" start="20251031171500 +0100" stop="20251031173000 +0100">
     <title>Fußball: Schwarzgelbe Helden: BVB-Blindenfußballer erstmals Deutscher Meister</title>
     <desc>Die BVB-Blindenfußballer haben Geschichte geschrieben: Die Borussia ist erstmalig Deutscher Meister im Blindenfußball. BVB-TV hat die Mannschaft das Wochenende begleitet und zeigt die Tore zum Titel.</desc>
@@ -986,18 +967,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
   <programme channel="Sky Sport Top Event" start="20251101230000 +0100" stop="20251102003000 +0100">
     <title>Live NBA: Sacramento Kings @ Milwaukee Bucks</title>
     <desc>Spektakuläre Drei-Punkte-Würfe, Rebounds und Dunks: In der NBA zeigen Stars wie Stephen Curry, Nikola Jokic oder Dennis Schröder ihr Können. Wer führt sein Team zum großen Erfolg?</desc>
-  </programme>
-  <programme channel="bluezoom.ch" start="20251031134000 +0100" stop="20251031162500 +0100">
-    <title>Fussball: Grasshopper Club Zürich - BSC Young Boys</title>
-    <desc>Brack Super League, 11. Spieltag - Deutsch/Italiano.</desc>
-  </programme>
-  <programme channel="bluezoom.ch" start="20251031162500 +0100" stop="20251031164500 +0100">
-    <title>Fussball: Alle Spiele, alle Tore - Brack Super League</title>
-    <desc>Brack Super League, 11. Spieltag.</desc>
-  </programme>
-  <programme channel="bluezoom.ch" start="20251031164500 +0100" stop="20251031171000 +0100">
-    <title>50 Jahre des Sports</title>
-    <desc>2021 – Transfers von Messi und Ronaldo, Olympische Spiele in Tokio - Während Novak Djokovic sein bestes Tennis spielt und den Grand Slam nur knapp verpasst, endet die Rivalität zwischen Messi und Ronaldo. Beide wechseln zu unterschiedlichen europäischen Vereinen.</desc>
   </programme>
   <programme channel="bluezoom.ch" start="20251031171000 +0100" stop="20251031174000 +0100">
     <title>The Football Review - Köpfe der Woche</title>
@@ -1339,50 +1308,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
     <title>blue Sport 2 Live</title>
     <desc> No Description Info</desc>
   </programme>
-  <programme channel="sport1myteamtv.de" start="20251031123000 +0100" stop="20251031163000 +0100">
-    <title>myTeamTV: Momentan kein Programm</title>
-    <desc>Momentan kein Programm.</desc>
-  </programme>
-  <programme channel="sport1myteamtv.de" start="20251031163000 +0100" stop="20251031183000 +0100">
-    <title>myTeamTV: Momentan kein Programm</title>
-    <desc>Momentan kein Programm.</desc>
-  </programme>
-  <programme channel="sport1myteamtv.de" start="20251031183000 +0100" stop="20251031220000 +0100">
-    <title>Tipico Topspiel der Woche: FC Viktoria Köln - FC Ingolstadt</title>
-    <desc>FC Viktoria Köln - FC Ingolstadt 04, 3. Liga, Spieltag 13</desc>
-  </programme>
-  <programme channel="sport1myteamtv.de" start="20251031220000 +0100" stop="20251101020000 +0100">
-    <title>myTeamTV: Momentan kein Programm</title>
-    <desc>Momentan kein Programm.</desc>
-  </programme>
-  <programme channel="sport1myteamtv.de" start="20251101020000 +0100" stop="20251101060000 +0100">
-    <title>myTeamTV: Momentan kein Programm</title>
-    <desc>Momentan kein Programm.</desc>
-  </programme>
-  <programme channel="sport1myteamtv.de" start="20251101060000 +0100" stop="20251101100000 +0100">
-    <title>myTeamTV: Momentan kein Programm</title>
-    <desc>Momentan kein Programm.</desc>
-  </programme>
-  <programme channel="sport1myteamtv.de" start="20251101100000 +0100" stop="20251101133000 +0100">
-    <title>myTeamTV: Momentan kein Programm</title>
-    <desc>Momentan kein Programm.</desc>
-  </programme>
-  <programme channel="sport1myteamtv.de" start="20251101133000 +0100" stop="20251101163000 +0100">
-    <title>3. Liga - Konferenz</title>
-    <desc>3. Liga - Konferenz, 3. Liga, Spieltag 13</desc>
-  </programme>
-  <programme channel="sport1myteamtv.de" start="20251101163000 +0100" stop="20251101174500 +0100">
-    <title>myTeamTV: Momentan kein Programm</title>
-    <desc>Momentan kein Programm.</desc>
-  </programme>
-  <programme channel="sport1myteamtv.de" start="20251101174500 +0100" stop="20251101220000 +0100">
-    <title>Iserlohn Roosters - Grizzlys Wolfsburg</title>
-    <desc>Iserlohn Roosters - Grizzlys Wolfsburg, PENNY DEL, Spieltag 17</desc>
-  </programme>
-  <programme channel="sport1myteamtv.de" start="20251101220000 +0100" stop="20251102020000 +0100">
-    <title>myTeamTV: Momentan kein Programm</title>
-    <desc>Momentan kein Programm.</desc>
-  </programme>
   <programme channel="Sportdigitalscooore.de" start="20251031154500 +0100" stop="20251031174500 +0100">
     <title>CA Lanus (ARG) - Universidad de Chile (CHI)</title>
     <desc>CONMEBOL Sudamericana (Halbfinale, Rueckspiel).</desc>
@@ -1462,18 +1387,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
   <programme channel="DAZN 1" start="20251031154500 +0100" stop="20251031175500 +0100">
     <title>Live Saudi Pro League 25/26: Al Hilal - Al Shabab</title>
     <desc>Saudi Pro League 25/26: Al Hilal - Al Shabab</desc>
-  </programme>
-  <programme channel="DAZN 1" start="20251031155500 +0100" stop="20251031162500 +0100">
-    <title>Best of DAZN: Highlights</title>
-    <desc>Highlights - Bei "Best</desc>
-  </programme>
-  <programme channel="DAZN 1" start="20251031162500 +0100" stop="20251031164500 +0100">
-    <title>Mehr</title>
-    <desc>Mehr</desc>
-  </programme>
-  <programme channel="DAZN 1" start="20251031164500 +0100" stop="20251031170500 +0100">
-    <title>Mehr</title>
-    <desc>Mehr</desc>
   </programme>
   <programme channel="DAZN 1" start="20251031170500 +0100" stop="20251031172500 +0100">
     <title>Mehr</title>
@@ -1787,10 +1700,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
     <title>Wstęp do meczu</title>
     <desc>Autorzy programu zapowiadają najbliższy mecz rozgrywany przez kluby należące do elity piłki nożnej w Polsce. Przedstawiają składy i statystyki, przeprowadzają krótkie rozmowy z piłkarzami i trenerami.</desc>
   </programme>
-  <programme channel="elevensports1.pl" start="20251031161500 +0100" stop="20251031165000 +0100">
-    <title>Podróż do świata calcio: Oczami sędziego</title>
-    <desc>Autorzy filmu dokumentalnego zabierają widzów w podróż przez historię znanego stadionu San Siro w Mediolanie. Odkrywają fascynujące zdarzenia związane z tym obiektem, domem AC Milanu i Interu Mediolan.</desc>
-  </programme>
   <programme channel="elevensports1.pl" start="20251031165000 +0100" stop="20251031173000 +0100">
     <title>Inside Serie A</title>
     <desc>Program poświęcony jednej z najlepszych piłkarskich lig na świecie - włoskiej Serie A TIM.</desc>
@@ -2027,14 +1936,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
     <title>Historyczne momenty Ligue 1</title>
     <desc> No Description Info</desc>
   </programme>
-  <programme channel="elevensports3.pl" start="20251031160000 +0100" stop="20251031163000 +0100">
-    <title>Ligue 1 Show</title>
-    <desc>Magazyn poświęcony rozgrywkom ligi francuskiej. Prezentowane są w nim wywiady z zawodnikami, ligowe ciekawostki oraz zapowiedzi meczów z nadchodzącej kolejki.</desc>
-  </programme>
-  <programme channel="elevensports3.pl" start="20251031163000 +0100" stop="20251031170000 +0100">
-    <title>Ligue 1 Preview</title>
-    <desc>Magazyn poświęcony lidze francuskiej, a w nim zapowiedź wszystkich spotkań najbliższej kolejki.</desc>
-  </programme>
   <programme channel="elevensports3.pl" start="20251031170000 +0100" stop="20251031173500 +0100">
     <title>Bundesliga Weekly</title>
     <desc>Najnowsze informacje z boisk niemieckiej ekstraklasy. W programie m.in. relacje z treningów i konferencji prasowych, wywiady z zawodnikami, trenerami oraz szefami klubu.</desc>
@@ -2255,10 +2156,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
     <title>Kanalpause</title>
     <desc>Kanalen sendes for øyeblikket ikke.</desc>
   </programme>
-  <programme channel="sportingtv.pt" start="20251031163000 +0100" stop="20251031170000 +0100">
-    <title>Sporting Notícias</title>
-    <desc>Síntese de notícias do Mundo Sporting.</desc>
-  </programme>
   <programme channel="sportingtv.pt" start="20251031170000 +0100" stop="20251031180000 +0100">
     <title>Pré-Jogo</title>
     <desc>S10E10 - A antevisão do fim-de-semana desportivo, com destaque para a equipa principal de futebol e para os campeonatos em que as equipas de formação estão envolvidas. E os destaques das transmissões Sporting TV dos próximos dias.</desc>
@@ -2402,10 +2299,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
   <programme channel="sportingtv.pt" start="20251101233500 +0100" stop="20251101013500 +0100">
     <title>Estamos Em Casa</title>
     <desc> No Description Info</desc>
-  </programme>
-  <programme channel="sporttv3.pt" start="20251031120000 +0100" stop="20251031170000 +0100">
-    <title>Golfe: Grand Final 2º Dia - Challenge Tour (Direto)</title>
-    <desc>Transmissão do Torneio de Golfe, integrado no Challenge Tour.</desc>
   </programme>
   <programme channel="sporttv3.pt" start="20251031170000 +0100" stop="20251031195500 +0100">
     <title>Golfe: Maybank Championship 2º Dia - LPGA Tour</title>
@@ -2561,10 +2454,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
   </programme>
   <programme channel="primasport4.ro" start="20251101230000 +0100" stop="20251102004500 +0100">
     <title>Corona Brasov - Valcea</title>
-    <desc> No Description Info</desc>
-  </programme>
-  <programme channel="digisport4.ro" start="20251031150000 +0100" stop="20251031170000 +0100">
-    <title>Live Tenis</title>
     <desc> No Description Info</desc>
   </programme>
   <programme channel="digisport4.ro" start="20251031170000 +0100" stop="20251031183000 +0100">
@@ -2743,22 +2632,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
     <title>Tenis Atp</title>
     <desc> No Description Info</desc>
   </programme>
-  <programme channel="skysportsfootball.uk" start="20251031163000 +0100" stop="20251031164500 +0100">
-    <title>EFL 25/26: Ipswich v West Brom</title>
-    <desc>After home defeat to Charlton midweek, Ipswich Town get back into Sky Bet Championship action at Portman Road, facing West Brom. The Baggies lost to Watford last time out. (25.10)</desc>
-  </programme>
-  <programme channel="skysportsfootball.uk" start="20251031164500 +0100" stop="20251031170000 +0100">
-    <title>EFL 25/26: M'boro v Wrexham</title>
-    <desc>Middlesbrough play host to Wrexham at the Riverside Stadium in the Sky Bet Championship. (25.10)</desc>
-  </programme>
-  <programme channel="skysportsfootball.uk" start="20251031170000 +0100" stop="20251031171500 +0100">
-    <title>EFL 25/26: Millwall v Leicester</title>
-    <desc>Millwall play host to Leicester City at the Den in the Sky Bet Championship. (25.10)</desc>
-  </programme>
-  <programme channel="skysportsfootball.uk" start="20251031171500 +0100" stop="20251031173000 +0100">
-    <title>SPFL Round-Up</title>
-    <desc>S11E10 - A round-up of the goals from the latest weekend of Scottish Premiership action during the 2025-26 season.</desc>
-  </programme>
   <programme channel="skysportsfootball.uk" start="20251031173000 +0100" stop="20251031180000 +0100">
     <title>EFL League One Goals</title>
     <desc>A round-up of the Sky Bet League One goals from the latest batch of fixtures during the 2025-26 season.</desc>
@@ -2943,22 +2816,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
     <title>EFL 25/26: West Brom v Sheff Weds</title>
     <desc>West Brom and Sheffield Wednesday go toe to toe in the Sky Bet Championship. Having been handed a 12-point deduction, can the Owls earn their second win of the season? (01.11)</desc>
   </programme>
-  <programme channel="skysportsfootball.uk" start="20251031163000 +0100" stop="20251031164500 +0100">
-    <title>EFL 25/26: Ipswich v West Brom</title>
-    <desc>After home defeat to Charlton midweek, Ipswich Town get back into Sky Bet Championship action at Portman Road, facing West Brom. The Baggies lost to Watford last time out. (25.10)</desc>
-  </programme>
-  <programme channel="skysportsfootball.uk" start="20251031164500 +0100" stop="20251031170000 +0100">
-    <title>EFL 25/26: M'boro v Wrexham</title>
-    <desc>Middlesbrough play host to Wrexham at the Riverside Stadium in the Sky Bet Championship. (25.10)</desc>
-  </programme>
-  <programme channel="skysportsfootball.uk" start="20251031170000 +0100" stop="20251031171500 +0100">
-    <title>EFL 25/26: Millwall v Leicester</title>
-    <desc>Millwall play host to Leicester City at the Den in the Sky Bet Championship. (25.10)</desc>
-  </programme>
-  <programme channel="skysportsfootball.uk" start="20251031171500 +0100" stop="20251031173000 +0100">
-    <title>SPFL Round-Up</title>
-    <desc>S11E10 - A round-up of the goals from the latest weekend of Scottish Premiership action during the 2025-26 season.</desc>
-  </programme>
   <programme channel="skysportsfootball.uk" start="20251031173000 +0100" stop="20251031180000 +0100">
     <title>EFL League One Goals</title>
     <desc>A round-up of the Sky Bet League One goals from the latest batch of fixtures during the 2025-26 season.</desc>
@@ -3142,10 +2999,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
   <programme channel="skysportsfootball.uk" start="20251101234500 +0100" stop="20251102000000 +0100">
     <title>EFL 25/26: West Brom v Sheff Weds</title>
     <desc>West Brom and Sheffield Wednesday go toe to toe in the Sky Bet Championship. Having been handed a 12-point deduction, can the Owls earn their second win of the season? (01.11)</desc>
-  </programme>
-  <programme channel="fox.nl" start="20251031155500 +0100" stop="20251031165000 +0100">
-    <title>Million Dollar Listing Los Angeles</title>
-    <desc>Flagg en Altman gaan de strijd met elkaar aan om hun huizen in Trousdale te verkopen, maar Flagg zet het spel op zijn kop als hij verliefd wordt op Altmans woning. Tracy krijgt een voorproefje van een nieuw pans in Bel Air.</desc>
   </programme>
   <programme channel="fox.nl" start="20251031165000 +0100" stop="20251031175000 +0100">
     <title>The Real Housewives of Beverly Hills</title>
@@ -3359,10 +3212,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
     <title>The Walking Dead: Daryl Dixon</title>
     <desc>Een toevallige ontmoeting biedt een mogelijke weg naar huis. Daryl neemt een moeilijke beslissing.</desc>
   </programme>
-  <programme channel="ziggosportvoetbal.nl" start="20251031162500 +0100" stop="20251031170000 +0100">
-    <title>Development at its Heart: The UEFA Youth League</title>
-    <desc>In deze documentaire over de UEFA Youth League kijken we terug op de positieve impact van de competitie gedurende de afgelopen tien jaar.</desc>
-  </programme>
   <programme channel="ziggosportvoetbal.nl" start="20251031170000 +0100" stop="20251031183500 +0100">
     <title>Serie A</title>
     <desc>Verslag van de wedstrijd Cagliari - Sassuolo, gespeeld in de Italiaanse Serie A.</desc>
@@ -3466,10 +3315,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
   <programme channel="ziggosportvoetbal.nl" start="20251101225000 +0100" stop="20251102000000 +0100">
     <title>KICK 't MET</title>
     <desc>Jurriën en Quinten Timber zijn te gast samen met vrienden Defano en Yuki. De heren hebben het over het kampioenschap van Feyenoord, jeugd in Utrecht, het leven buiten het veld en hun liefde voor NBA.</desc>
-  </programme>
-  <programme channel="tv2sport.dk" start="20251031160000 +0100" stop="20251031170000 +0100">
-    <title>Badminton: Kvartfinale, Hylo Open</title>
-    <desc>S2025E113 - Udsendelse af programmet - Badminton: Hylo Open</desc>
   </programme>
   <programme channel="tv2sport.dk" start="20251031170000 +0100" stop="20251031180000 +0100">
     <title>Badminton: Kvartfinale, Hylo Open</title>
@@ -3607,10 +3452,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
     <title>Badminton: Semifinale, Hylo Open</title>
     <desc>S2025E118 - Udsendelse af programmet - Badminton: Hylo Open</desc>
   </programme>
-  <programme channel="beinsportsmax4.fr" start="20251031140000 +0100" stop="20251031170000 +0100">
-    <title>beIN SPORTS, le plus grand des spectacles</title>
-    <desc>Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chaîne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.</desc>
-  </programme>
   <programme channel="beinsportsmax4.fr" start="20251031170000 +0100" stop="20251031195300 +0100">
     <title>beIN SPORTS, le plus grand des spectacles</title>
     <desc>Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chaîne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.</desc>
@@ -3654,10 +3495,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
   <programme channel="beinsportsmax4.fr" start="20251101230000 +0100" stop="20251102010000 +0100">
     <title>beIN SPORTS, le plus grand des spectacles</title>
     <desc>Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chaîne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.</desc>
-  </programme>
-  <programme channel="beinsportsmax5.fr" start="20251031070000 +0100" stop="20251031173000 +0100">
-    <title>Quarts de finale</title>
-    <desc> No Description Info</desc>
   </programme>
   <programme channel="beinsportsmax5.fr" start="20251031173000 +0100" stop="20251031195500 +0100">
     <title>beIN SPORTS, le plus grand des spectacles</title>
@@ -3759,10 +3596,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
     <title>beIN SPORTS, le plus grand des spectacles</title>
     <desc>Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chaîne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.</desc>
   </programme>
-  <programme channel="beinsportsmax7.fr" start="20251031130000 +0100" stop="20251031170000 +0100">
-    <title>beIN SPORTS, le plus grand des spectacles</title>
-    <desc>Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chaîne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.</desc>
-  </programme>
   <programme channel="beinsportsmax7.fr" start="20251031170000 +0100" stop="20251031195500 +0100">
     <title>beIN SPORTS, le plus grand des spectacles</title>
     <desc>Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chaîne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.</desc>
@@ -3808,10 +3641,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
     <desc>Le TIBY Handball se positionne comme une étape de préparation en vue des compétitions internationales. Il réunit généralement quatre nations majeures du handball.</desc>
   </programme>
   <programme channel="beinsportsmax7.fr" start="20251101221500 +0100" stop="20251102010000 +0100">
-    <title>beIN SPORTS, le plus grand des spectacles</title>
-    <desc>Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chaîne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.</desc>
-  </programme>
-  <programme channel="beinsportsmax8.fr" start="20251031130000 +0100" stop="20251031170000 +0100">
     <title>beIN SPORTS, le plus grand des spectacles</title>
     <desc>Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chaîne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.</desc>
   </programme>
@@ -3862,10 +3691,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
   <programme channel="beinsportsmax8.fr" start="20251101220000 +0100" stop="20251102003000 +0100">
     <title>Milwaukee Bucks / Sacramento Kings</title>
     <desc>Diffusion d'un match de NBA (National Basketball Association), la ligue américaine de basketball. Depuis 1946, les parquets américains et canadiens voient s'affronter des franchises de légende comme les Lakers, les Bulls, les Celtics ou bien encore les Spurs. Des joueurs NBA sont entrés au panthéon du basket mondial à l'image de Michael Jordan, LeBron James, Shaquille O'Neal ou plus récemment les Français Tony Parker et Victor Wembanyama.</desc>
-  </programme>
-  <programme channel="spiler2.hu" start="20251031160000 +0100" stop="20251031170000 +0100">
-    <title>Tűzben edzett 8, ep. 15</title>
-    <desc> No Description Info</desc>
   </programme>
   <programme channel="spiler2.hu" start="20251031170000 +0100" stop="20251031180000 +0100">
     <title>Muškarci sa sjekirama 6, ep. 8</title>
@@ -4010,10 +3835,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
   <programme channel="spiler2.hu" start="20251101232000 +0100" stop="20251102013000 +0100">
     <title>La Liga 2025/26: Atlético de Madrid – Sevilla FC</title>
     <desc> No Description Info</desc>
-  </programme>
-  <programme channel="arenasport1x2.rs" start="20251031160000 +0100" stop="20251031170000 +0100">
-    <title>Arena Sport 1x2</title>
-    <desc>Arena Sport 1x2 prati uzbuđenja i promene rezultata na svim terenima širom planete. Pored direktnih prenosa, ovaj kanal je pravo mesto na kome prvi možete da saznate kada lopta uđe u mrežu ili prođe kroz mrežicu. Nesvakidašnji kanal na ovim prostorima, po uzoru na slične u Engleskoj, Francuskoj i Nemačkoj. Posebna grafika, stanje na tabelama, trenutna forma… Specijalne dnevne emisije, analize, poznati gosti. Tu su naravno direktni prenosi, multiprenosi utakmica koje počinju u isto vreme, atraktivne reprize… Ukoliko vas zanimaju najnoviji rezultati - Arena Sport 1x2 je pravo mesto za vas.</desc>
   </programme>
   <programme channel="arenasport1x2.rs" start="20251031170000 +0100" stop="20251031180000 +0100">
     <title>Fudbal - Ruska liga: CSKA - Nizhny Novgorod</title>
@@ -4162,10 +3983,6 @@ AUS 2023. 49 Min. Von Marie Mohr, mit Victoria Gregory, Wensley Clarkson, Candic
   <programme channel="ArenaSportPremium2.rs" start="20251101224500 +0100" stop="20251102010000 +0100">
     <title>Fudbal - Italijanska liga: Napoli - Como</title>
     <desc>Seria A je profesionalno fudbalsko takmičenje koje broji 20 ekipa u dvokružnom ligaškom prvenstvu. Još od 1929. godine kada je osnovana, Seria A postala je sinonim za taktički fudbal. Dugi niz godina italijanski fudbal se svojim kvalitetom te nizom sjajnih igrača i trenera smatrao najboljim u Evropi. Padom finansijske moći italijanskih prvoligaša te nizom korupcijskih skandala liga je na kratko pala u kvalitetu, ali se sigurnim koracima vraća na mesto gde i pripada.</desc>
-  </programme>
-  <programme channel="ArenaSportPremium3.rs" start="20251031150000 +0100" stop="20251031170000 +0100">
-    <title>Fudbal - Carabao Cup: Swansea - Manchester City</title>
-    <desc>Engleski Liga kup za razliku od svog popularnijeg "brata" FA kupa svoju istoriju započinje 60-tih godina 20. veka i time koristeći mogućnost igranja pod reflektorima u večernje sate što pre nije bilo moguće. Sve utakmice se igraju usred sedmice dok se jedino finale igra na jednu utakmicu na neutralnom terenu na stadionu Vembli u Londonu. Zanimljivost ovog takmičenja je da se finale igra već u februaru ili martu, a pobednik osigurava plasman u UEFA Ligi Evrope ukoliko već nije osigurao plasman kroz Premieršip. Prvi pobednici takmičenja su bili fudbaleri Aston Vile 1961. godine.</desc>
   </programme>
   <programme channel="ArenaSportPremium3.rs" start="20251031170000 +0100" stop="20251031180000 +0100">
     <title>Fudbal - Italijanska liga: Pregled 9. kola</title>
@@ -4349,10 +4166,6 @@ Patrick Vieira.</desc>
   <programme channel="arenasport5.rs" start="20251101223000 +0100" stop="20251102001500 +0100">
     <title>Saint-Quentin - Nanterre</title>
     <desc>FRANCUSKA LIGA.</desc>
-  </programme>
-  <programme channel="premiersports1.uk" start="20251031160000 +0100" stop="20251031173000 +0100">
-    <title>The Rugby Pod</title>
-    <desc>The Rugby Pod with Big Jim Hamilton, Andy Goode, Dan Biggar, Producer Rob and weekly guests is the most listened to Rugby podcast in the world.</desc>
   </programme>
   <programme channel="premiersports1.uk" start="20251031173000 +0100" stop="20251031180000 +0100">
     <title>Top 14 Highlights - Round 8</title>
