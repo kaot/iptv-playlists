@@ -7549,6 +7549,10 @@
     <title>blue Sport 2 Live D</title>
     <desc> No Description Info</desc>
   </programme>
+  <programme channel="live.8ec88f60.ch0.dragon" start="20251102200000 +0100" stop="20251103000000 +0100">
+    <title>blue Sport 2 Live D</title>
+    <desc> No Description Info</desc>
+  </programme>
   <programme channel="live.554b7a9f.ch0.dragon" start="20251101030000 +0100" stop="20251101070000 +0100">
     <title>blue Sport 3 Live D</title>
     <desc> No Description Info</desc>
@@ -8020,6 +8024,14 @@
   <programme channel="live.b28be88d.ch1.dragon" start="20251102223000 +0100" stop="20251102230000 +0100">
     <title>Daisy May and Charlie Cooper's NightWatch</title>
     <desc>S1E2 - 2/6. Daisy May and Charlie Cooper stay overnight in a reportedly haunted 16th-century pub in the Midlands, but will they need a drink or two to make it to the morning? [S,AD]</desc>
+  </programme>
+  <programme channel="live.b28be88d.ch0.dragon" start="20251102230000 +0100" stop="20251102234500 +0100">
+    <title>Later... with Jools Holland</title>
+    <desc>S67E5 - 5/6. With Florence + The Machine, New York musician Brian Jackson, soul singer Omar, Cardiff five-piece Panic Shack, classical pianist Víkingur Ólafsson and Londoner Baxter Dury.</desc>
+  </programme>
+  <programme channel="live.b28be88d.ch1.dragon" start="20251102230000 +0100" stop="20251102234500 +0100">
+    <title>Later... with Jools Holland</title>
+    <desc>S67E5 - 5/6. With Florence + The Machine, New York musician Brian Jackson, soul singer Omar, Cardiff five-piece Panic Shack, classical pianist Víkingur Ólafsson and Londoner Baxter Dury.</desc>
   </programme>
   <programme channel="live.c70faa3c.ch3.dragon" start="20251101060000 +0100" stop="20251101121000 +0100">
     <title>Sendepause</title>
@@ -10709,6 +10721,46 @@
     <title>Admiral BL: ASAT Kompakt, 12. Runde</title>
     <desc>Alle Spiele, alle Tore: Der Spieltag der ADMIRAL Bundesliga im Rückblick.</desc>
   </programme>
+  <programme channel="live.ae15c32b.ch7.dragon" start="20251102221500 +0100" stop="20251102233000 +0100">
+    <title>Talk &amp; Tore: Fußball-Talk</title>
+    <desc>Kontroverse Diskussionen mit hochkarätigen Studiogästen und Experten: Österreichs bester Fußball-Live-Talk bietet Zuschauern aktuellste Informationen rund um den heimischen Fußball.</desc>
+  </programme>
+  <programme channel="live.ae15c32b.ch8.dragon" start="20251102221500 +0100" stop="20251102233000 +0100">
+    <title>Talk &amp; Tore: Fußball-Talk</title>
+    <desc>Kontroverse Diskussionen mit hochkarätigen Studiogästen und Experten: Österreichs bester Fußball-Live-Talk bietet Zuschauern aktuellste Informationen rund um den heimischen Fußball.</desc>
+  </programme>
+  <programme channel="live.ae15c32b.ch9.dragon" start="20251102221500 +0100" stop="20251102233000 +0100">
+    <title>Talk &amp; Tore: Fußball-Talk</title>
+    <desc>Kontroverse Diskussionen mit hochkarätigen Studiogästen und Experten: Österreichs bester Fußball-Live-Talk bietet Zuschauern aktuellste Informationen rund um den heimischen Fußball.</desc>
+  </programme>
+  <programme channel="live.ae15c32b.ch10.dragon" start="20251102221500 +0100" stop="20251102233000 +0100">
+    <title>Talk &amp; Tore: Fußball-Talk</title>
+    <desc>Kontroverse Diskussionen mit hochkarätigen Studiogästen und Experten: Österreichs bester Fußball-Live-Talk bietet Zuschauern aktuellste Informationen rund um den heimischen Fußball.</desc>
+  </programme>
+  <programme channel="live.ae15c32b.ch11.dragon" start="20251102221500 +0100" stop="20251102233000 +0100">
+    <title>Talk &amp; Tore: Fußball-Talk</title>
+    <desc>Kontroverse Diskussionen mit hochkarätigen Studiogästen und Experten: Österreichs bester Fußball-Live-Talk bietet Zuschauern aktuellste Informationen rund um den heimischen Fußball.</desc>
+  </programme>
+  <programme channel="live.ae15c32b.ch7.dragon" start="20251102233000 +0100" stop="20251103000000 +0100">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Stephanie Venier)</title>
+    <desc>Auf dem Wiener Riesenrad: In luftiger Höhe entlockt Moderatorin Kimberly Budinsky großen Sportpersönlichkeiten ihre faszinierende Lebensgeschichte und lässt dabei keine Frage offen.</desc>
+  </programme>
+  <programme channel="live.ae15c32b.ch8.dragon" start="20251102233000 +0100" stop="20251103000000 +0100">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Stephanie Venier)</title>
+    <desc>Auf dem Wiener Riesenrad: In luftiger Höhe entlockt Moderatorin Kimberly Budinsky großen Sportpersönlichkeiten ihre faszinierende Lebensgeschichte und lässt dabei keine Frage offen.</desc>
+  </programme>
+  <programme channel="live.ae15c32b.ch9.dragon" start="20251102233000 +0100" stop="20251103000000 +0100">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Stephanie Venier)</title>
+    <desc>Auf dem Wiener Riesenrad: In luftiger Höhe entlockt Moderatorin Kimberly Budinsky großen Sportpersönlichkeiten ihre faszinierende Lebensgeschichte und lässt dabei keine Frage offen.</desc>
+  </programme>
+  <programme channel="live.ae15c32b.ch10.dragon" start="20251102233000 +0100" stop="20251103000000 +0100">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Stephanie Venier)</title>
+    <desc>Auf dem Wiener Riesenrad: In luftiger Höhe entlockt Moderatorin Kimberly Budinsky großen Sportpersönlichkeiten ihre faszinierende Lebensgeschichte und lässt dabei keine Frage offen.</desc>
+  </programme>
+  <programme channel="live.ae15c32b.ch11.dragon" start="20251102233000 +0100" stop="20251103000000 +0100">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Stephanie Venier)</title>
+    <desc>Auf dem Wiener Riesenrad: In luftiger Höhe entlockt Moderatorin Kimberly Budinsky großen Sportpersönlichkeiten ihre faszinierende Lebensgeschichte und lässt dabei keine Frage offen.</desc>
+  </programme>
   <programme channel="live.b18611b9.ch0.dragon" start="20251101060000 +0100" stop="20251101163000 +0100">
     <title>Sendepause</title>
   </programme>
@@ -11026,6 +11078,10 @@
     <title>Fussball: Real Madrid CF - Valencia CF</title>
     <desc>LALIGA, 11. Spieltag - Deutsch/English</desc>
   </programme>
+  <programme channel="live.8ec88f60.ch1.dragon" start="20251102230500 +0100" stop="20251102233000 +0100">
+    <title>The Football Review - Köpfe der Woche</title>
+    <desc>Folge 44b / 2025 - Analysen, Debatten und Updates zum europäischen Fussball: «The Football Review» fasst alle Fakten der letzten Tage zusammen. Ein Muss für alle Fussball-Fans. Im Fokus: UEFA Champions League, Serie A, Premier League, Ligue 1, LALIGA und Bundesliga.</desc>
+  </programme>
   <programme channel="live.c4025e91.ch0.dragon" start="20251101020000 +0100" stop="20251101060000 +0100">
     <title>blue Sport 1 Live</title>
     <desc> No Description Info</desc>
@@ -11071,6 +11127,10 @@
     <desc>Brack Super League, 12. Spieltag - Deutsch/Italiano - mit Studio</desc>
   </programme>
   <programme channel="live.c4025e91.ch0.dragon" start="20251102161500 +0100" stop="20251102200000 +0100">
+    <title>blue Sport 1 Live</title>
+    <desc> No Description Info</desc>
+  </programme>
+  <programme channel="live.c4025e91.ch0.dragon" start="20251102200000 +0100" stop="20251103000000 +0100">
     <title>blue Sport 1 Live</title>
     <desc> No Description Info</desc>
   </programme>
@@ -11123,6 +11183,10 @@
     <desc>dieci Challenge League, 12. Spieltag - Stadion-Ton - ohne Kommentar</desc>
   </programme>
   <programme channel="live.554b7a9f.ch1.dragon" start="20251102160000 +0100" stop="20251102200000 +0100">
+    <title>blue Sport 3 Live</title>
+    <desc> No Description Info</desc>
+  </programme>
+  <programme channel="live.554b7a9f.ch1.dragon" start="20251102200000 +0100" stop="20251103000000 +0100">
     <title>blue Sport 3 Live</title>
     <desc> No Description Info</desc>
   </programme>
@@ -11277,6 +11341,10 @@
   <programme channel="live.12f16639.ch0.dragon" start="20251102181500 +0100" stop="20251102203000 +0100">
     <title>FC Barcelona - Elche CF ᴸᶦᵛᵉ</title>
     <desc>LALIGA, 11. Spieltag - Deutsch/English</desc>
+  </programme>
+  <programme channel="live.12f16639.ch0.dragon" start="20251102203000 +0100" stop="20251103000000 +0100">
+    <title>blue Sport 6 Live</title>
+    <desc> No Description Info</desc>
   </programme>
   <programme channel="live.7039c3f5.ch0.dragon" start="20251101020000 +0100" stop="20251101060000 +0100">
     <title>blue Sport 8 Live</title>
@@ -13590,6 +13658,12 @@
   <programme channel="live.924e41a7.ch3.dragon" start="20251102190000 +0100" stop="20251102200000 +0100">
     <title>Monster Jam  ''Yarış''</title>
   </programme>
+  <programme channel="live.924e41a7.ch2.dragon" start="20251102220000 +0100" stop="20251103000000 +0100">
+    <title>Al Wehdat-Muharraq "Tekrar"</title>
+  </programme>
+  <programme channel="live.924e41a7.ch3.dragon" start="20251102220000 +0100" stop="20251103000000 +0100">
+    <title>Al Wehdat-Muharraq "Tekrar"</title>
+  </programme>
   <programme channel="live.60cc743c.ch2.dragon" start="20251101000000 +0100" stop="20251101020000 +0100">
     <title>Piłka nożna: Bundesliga: FC Augsburg - Borussia Dortmund</title>
     <desc>Liga niemiecka jest jedną z najlepszych piłkarskich lig na świecie. Gigantem rozgrywek jest Bayern Monachium, z którym rywalizują między innymi Borussia Dortmund, Bayer 04 Leverkusen, 1. FC Köln, FC St. Pauli i Eintracht Frankfurt.</desc>
@@ -14070,6 +14144,18 @@
     <title>Studio Serie A Enilive</title>
     <desc> No Description Info</desc>
   </programme>
+  <programme channel="live.60cc743c.ch2.dragon" start="20251102230000 +0100" stop="20251103002000 +0100">
+    <title>Eleven Gol Live</title>
+    <desc>Kompletny przegląd wydarzeń z ligi hiszpańskiej, włoskiej i francuskiej z wynikami wszystkich spotkań i tabelami.</desc>
+  </programme>
+  <programme channel="live.60cc743c.ch3.dragon" start="20251102230000 +0100" stop="20251103002000 +0100">
+    <title>Eleven Gol Live</title>
+    <desc>Kompletny przegląd wydarzeń z ligi hiszpańskiej, włoskiej i francuskiej z wynikami wszystkich spotkań i tabelami.</desc>
+  </programme>
+  <programme channel="live.60cc743c.ch4.dragon" start="20251102230000 +0100" stop="20251103002000 +0100">
+    <title>Eleven Gol Live</title>
+    <desc>Kompletny przegląd wydarzeń z ligi hiszpańskiej, włoskiej i francuskiej z wynikami wszystkich spotkań i tabelami.</desc>
+  </programme>
   <programme channel="live.725e94b1.ch3.dragon" start="20251101000000 +0100" stop="20251101020000 +0100">
     <title>Piłka ręczna mężczyzn - mecz towarzyski: Polska - Czechy</title>
     <desc> No Description Info</desc>
@@ -14469,6 +14555,14 @@
   <programme channel="live.efe365f9.ch3.dragon" start="20251102203000 +0100" stop="20251102220000 +0100">
     <title>Liga Konferencji UEFA - RC Strasbourg - Jagiellonia Białystok</title>
     <desc>Transmisja ze Stadionu de la Meinau w Strasburgu, Francja.</desc>
+  </programme>
+  <programme channel="live.efe365f9.ch2.dragon" start="20251102220000 +0100" stop="20251102233000 +0100">
+    <title>Liga Konferencji UEFA - Sigma Olomouc - Raków Częstochowa</title>
+    <desc>Transmisja ze stadionu Andruv w Ołomuńcu, Czechy.</desc>
+  </programme>
+  <programme channel="live.efe365f9.ch3.dragon" start="20251102220000 +0100" stop="20251102233000 +0100">
+    <title>Liga Konferencji UEFA - Sigma Olomouc - Raków Częstochowa</title>
+    <desc>Transmisja ze stadionu Andruv w Ołomuńcu, Czechy.</desc>
   </programme>
   <programme channel="live.094d2233.ch4.dragon" start="20251101003000 +0100" stop="20251101070000 +0100">
     <title>Magazyn Ligi Konferencji UEFA</title>
@@ -14990,6 +15084,30 @@
     <title>Obos-ligaen: Runden oppsummert - 29. Runde Oppsummert</title>
     <desc>S2025E29 - Oppsummering av serierunden i Obos-ligaen, med scoringer, høydepunkter og reaksjoner.</desc>
   </programme>
+  <programme channel="live.7039c3f5.ch14.dragon" start="20251102224500 +0100" stop="20251102234500 +0100">
+    <title>Fotballkveld - 27. Serierunde</title>
+    <desc>S2025E26 - Fotballkveld. Vi gir deg alle målene fra Eliteserien med reportasjer, analyse og kommentarer fra kampene. I studio: Jan-Henrik Børslid, Jesper Mathisen, Mushaga Bakenga, Ruben Gabrielsen.</desc>
+  </programme>
+  <programme channel="live.7039c3f5.ch15.dragon" start="20251102224500 +0100" stop="20251102234500 +0100">
+    <title>Fotballkveld - 27. Serierunde</title>
+    <desc>S2025E26 - Fotballkveld. Vi gir deg alle målene fra Eliteserien med reportasjer, analyse og kommentarer fra kampene. I studio: Jan-Henrik Børslid, Jesper Mathisen, Mushaga Bakenga, Ruben Gabrielsen.</desc>
+  </programme>
+  <programme channel="live.7039c3f5.ch16.dragon" start="20251102224500 +0100" stop="20251102234500 +0100">
+    <title>Fotballkveld - 27. Serierunde</title>
+    <desc>S2025E26 - Fotballkveld. Vi gir deg alle målene fra Eliteserien med reportasjer, analyse og kommentarer fra kampene. I studio: Jan-Henrik Børslid, Jesper Mathisen, Mushaga Bakenga, Ruben Gabrielsen.</desc>
+  </programme>
+  <programme channel="live.7039c3f5.ch14.dragon" start="20251102234500 +0100" stop="20251103000000 +0100">
+    <title>LaLiga Goals by - Dodi Lukébakios Scoringer 24/25</title>
+    <desc>S2025E15 - LaLiga Goals by. Se alle scoringene fra de beste «goalgetterene» i LaLiga.</desc>
+  </programme>
+  <programme channel="live.7039c3f5.ch15.dragon" start="20251102234500 +0100" stop="20251103000000 +0100">
+    <title>LaLiga Goals by - Dodi Lukébakios Scoringer 24/25</title>
+    <desc>S2025E15 - LaLiga Goals by. Se alle scoringene fra de beste «goalgetterene» i LaLiga.</desc>
+  </programme>
+  <programme channel="live.7039c3f5.ch16.dragon" start="20251102234500 +0100" stop="20251103000000 +0100">
+    <title>LaLiga Goals by - Dodi Lukébakios Scoringer 24/25</title>
+    <desc>S2025E15 - LaLiga Goals by. Se alle scoringene fra de beste «goalgetterene» i LaLiga.</desc>
+  </programme>
   <programme channel="live.8af11ca4.ch1.dragon" start="20251101000500 +0100" stop="20251101024500 +0100">
     <title>Washington Capitals - New York Islanders</title>
     <desc>Přímý přenos hokejového zápasu NHL (v přest.: Sportovní noviny, NHL News).</desc>
@@ -15434,6 +15552,18 @@
     <title>Sportovní noviny</title>
     <desc>Přehled nejdůležitějších sportovních událostí doma i ve světě. Aktuální reportáže a Borec na konec.</desc>
   </programme>
+  <programme channel="live.8af11ca4.ch1.dragon" start="20251102213500 +0100" stop="20251103001500 +0100">
+    <title>Utah Mammoth - Tampa Bay Lightning</title>
+    <desc>Přímý přenos hokejového zápasu NHL (v přest.: Sportovní noviny, NHL News).</desc>
+  </programme>
+  <programme channel="live.8af11ca4.ch2.dragon" start="20251102213500 +0100" stop="20251103001500 +0100">
+    <title>Utah Mammoth - Tampa Bay Lightning</title>
+    <desc>Přímý přenos hokejového zápasu NHL (v přest.: Sportovní noviny, NHL News).</desc>
+  </programme>
+  <programme channel="live.8af11ca4.ch3.dragon" start="20251102213500 +0100" stop="20251103001500 +0100">
+    <title>Utah Mammoth - Tampa Bay Lightning</title>
+    <desc>Přímý přenos hokejového zápasu NHL (v přest.: Sportovní noviny, NHL News).</desc>
+  </programme>
   <programme channel="live.8af11ca4.ch4.dragon" start="20251101000000 +0100" stop="20251101040000 +0100">
     <title>Kanalpause</title>
     <desc>Kanalen sendes for øyeblikket ikke.</desc>
@@ -15798,6 +15928,14 @@
     <title>Desportos Paralímpicos - Magazine</title>
     <desc> No Description Info</desc>
   </programme>
+  <programme channel="live.094d2233.ch5.dragon" start="20251102213000 +0100" stop="20251103002000 +0100">
+    <title>NBA: Oklahoma City Thunder x New Orleans Pelicans (Direto)</title>
+    <desc> No Description Info</desc>
+  </programme>
+  <programme channel="live.094d2233.ch6.dragon" start="20251102213000 +0100" stop="20251103002000 +0100">
+    <title>NBA: Oklahoma City Thunder x New Orleans Pelicans (Direto)</title>
+    <desc> No Description Info</desc>
+  </programme>
   <programme channel="live.0134fc46.ch1.dragon" start="20251101090000 +0100" stop="20251101105000 +0100">
     <title>Hóquei: Colorado Avalanche x Vegas Golden Knights - NHL</title>
     <desc> No Description Info</desc>
@@ -15884,6 +16022,14 @@
   </programme>
   <programme channel="live.0134fc46.ch2.dragon" start="20251102175500 +0100" stop="20251102204000 +0100">
     <title>Parma x Bolonha - Liga Italiana (Direto)</title>
+    <desc> No Description Info</desc>
+  </programme>
+  <programme channel="live.0134fc46.ch1.dragon" start="20251102204000 +0100" stop="20251103003000 +0100">
+    <title>AC Milan x AS Roma - Liga Italiana (Direto)</title>
+    <desc> No Description Info</desc>
+  </programme>
+  <programme channel="live.0134fc46.ch2.dragon" start="20251102204000 +0100" stop="20251103003000 +0100">
+    <title>AC Milan x AS Roma - Liga Italiana (Direto)</title>
     <desc> No Description Info</desc>
   </programme>
   <programme channel="live.c4025e91.ch4.dragon" start="20251101011000 +0100" stop="20251101021000 +0100">
@@ -18678,6 +18824,16 @@ Una viuda pierde el control cuando su hija de seis años desaparece, sin dejar r
 
 Una agente del FBI viaja a Washington en un avión que es secuestrado en pleno vuelo y un hombre le ofrece una suculenta recompensa si le ayuda a escapar con vida.</desc>
   </programme>
+  <programme channel="live.ae15c32b.ch18.dragon" start="20251102230000 +0100" stop="20251102233000 +0100">
+    <title>Caso cerrado</title>
+    <desc>Don Teo
+
+María y Teodoro lanzaron la carrera de él bajo el nombre artístico ``Don Teo``, pero no tuvo éxito.</desc>
+  </programme>
+  <programme channel="live.ae15c32b.ch18.dragon" start="20251102233000 +0100" stop="20251103000000 +0100">
+    <title>Noticias Telemundo fin de semana</title>
+    <desc>Noticias Telemundo fin de semana es la fuente de información más confiable de la comunidad hispana en EE. UU. Su galardonado equipo de corresponsales ofrece los últimos acontecimientos.</desc>
+  </programme>
   <programme channel="live.71e53721.ch25.dragon" start="20251101001500 +0100" stop="20251101011000 +0100">
     <title>FBI - American Idol</title>
     <desc>S2E3 - Efter at en kvindelig præsidentkandidat, Valerie Caldwell, bliver ramt af en bilbombe, skal OA og Maggie finde dem, før de slår til igen. Sagen får dem til at spekulere på, om hun bliver ramt af sine politiske forhåbninger.</desc>
@@ -19158,6 +19314,14 @@ Una agente del FBI viaja a Washington en un avión que es secuestrado en pleno v
     <title>Outlander - Not in Scotland Anymore</title>
     <desc>S2E2 - Livet i Paris er ikke uden sine prøvelser, og Jamie forsøger at overvinde sin fortids traumer. Et heldigt møde med jakobitternes leder prins Charles åbner op for visse muligheder, mens hertugen af Sandringshams tilstedeværelse komplicerer tingene.</desc>
   </programme>
+  <programme channel="live.71e53721.ch25.dragon" start="20251102232500 +0100" stop="20251103003000 +0100">
+    <title>Yellowstone - Se dem ride væk</title>
+    <desc>S5E5 - John beder Clara om at aflyse sine politiske møder, så han kan brændemærke kvæg med Yellowstones cowboys. Beths foragt for en potentiel rival når kogepunktet.</desc>
+  </programme>
+  <programme channel="live.71e53721.ch26.dragon" start="20251102232500 +0100" stop="20251103003000 +0100">
+    <title>Yellowstone - Se dem ride væk</title>
+    <desc>S5E5 - John beder Clara om at aflyse sine politiske møder, så han kan brændemærke kvæg med Yellowstones cowboys. Beths foragt for en potentiel rival når kogepunktet.</desc>
+  </programme>
   <programme channel="live.04016406.ch27.dragon" start="20251101100000 +0100" stop="20251101182500 +0100">
     <title>RedBull TV</title>
     <desc>Fra . Velkommen til Red Bull TVs verden, hvor du får plads på forreste række til live events, det allerbedste i action og sport, det hotteste nye musik og underholdning.</desc>
@@ -19181,6 +19345,10 @@ Una agente del FBI viaja a Washington en un avión que es secuestrado en pleno v
   <programme channel="live.04016406.ch27.dragon" start="20251102172500 +0100" stop="20251102210000 +0100">
     <title>Premier League: Manchester City-Bournemouth ᴸᶦᵛᵉ</title>
     <desc>Fra 2025. Tiende runde i Premier League byder på opgør på Etihad Stadium, hvor Manchester City tager imod Bournemouth.</desc>
+  </programme>
+  <programme channel="live.04016406.ch27.dragon" start="20251102210000 +0100" stop="20251103000000 +0100">
+    <title>Formel 1: Mexicos Citys Grand Prix</title>
+    <desc>S2025E62 - Fra 2025. Mexico Citys Grand Prix køres på Autódromo Hermanos Rodríguez – en hurtig, teknisk bane, hvor motorer og kørere presses til det yderste.</desc>
   </programme>
   <programme channel="live.2b58515e.ch7.dragon" start="20251101020000 +0100" stop="20251101060000 +0100">
     <title>Disfruta de DAZN en Movistar Plus+</title>
@@ -19890,6 +20058,14 @@ Una agente del FBI viaja a Washington en un avión que es secuestrado en pleno v
     <title>Vivez en direct les évènements de CANAL+</title>
     <desc> No Description Info</desc>
   </programme>
+  <programme channel="live.3ec02690.ch15.dragon" start="20251102180000 +0100" stop="20251103000000 +0100">
+    <title>Vivez en direct les évènements de CANAL+</title>
+    <desc> No Description Info</desc>
+  </programme>
+  <programme channel="live.3ec02690.ch16.dragon" start="20251102180000 +0100" stop="20251103000000 +0100">
+    <title>Vivez en direct les évènements de CANAL+</title>
+    <desc> No Description Info</desc>
+  </programme>
   <programme channel="live.2b58515e.ch11.dragon" start="20251101000000 +0100" stop="20251101060000 +0100">
     <title>Vivez en direct les évènements de CANAL+</title>
     <desc> No Description Info</desc>
@@ -19931,6 +20107,10 @@ Una agente del FBI viaja a Washington en un avión que es secuestrado en pleno v
     <desc> No Description Info</desc>
   </programme>
   <programme channel="live.2b58515e.ch11.dragon" start="20251102120000 +0100" stop="20251102180000 +0100">
+    <title>Vivez en direct les évènements de CANAL+</title>
+    <desc> No Description Info</desc>
+  </programme>
+  <programme channel="live.2b58515e.ch11.dragon" start="20251102180000 +0100" stop="20251103000000 +0100">
     <title>Vivez en direct les évènements de CANAL+</title>
     <desc> No Description Info</desc>
   </programme>
@@ -20011,6 +20191,14 @@ Una agente del FBI viaja a Washington en un avión que es secuestrado en pleno v
     <desc> No Description Info</desc>
   </programme>
   <programme channel="live.e4a0c8e2.ch4.dragon" start="20251102120000 +0100" stop="20251102180000 +0100">
+    <title>Vivez en direct les évènements de CANAL+</title>
+    <desc> No Description Info</desc>
+  </programme>
+  <programme channel="live.e4a0c8e2.ch3.dragon" start="20251102180000 +0100" stop="20251103000000 +0100">
+    <title>Vivez en direct les évènements de CANAL+</title>
+    <desc> No Description Info</desc>
+  </programme>
+  <programme channel="live.e4a0c8e2.ch4.dragon" start="20251102180000 +0100" stop="20251103000000 +0100">
     <title>Vivez en direct les évènements de CANAL+</title>
     <desc> No Description Info</desc>
   </programme>
@@ -20107,6 +20295,14 @@ Una agente del FBI viaja a Washington en un avión que es secuestrado en pleno v
     <desc> No Description Info</desc>
   </programme>
   <programme channel="live.a1041487.ch1.dragon" start="20251102120000 +0100" stop="20251102180000 +0100">
+    <title>Vivez en direct les évènements de CANAL+</title>
+    <desc> No Description Info</desc>
+  </programme>
+  <programme channel="live.a1041487.ch0.dragon" start="20251102180000 +0100" stop="20251103000000 +0100">
+    <title>Vivez en direct les évènements de CANAL+</title>
+    <desc> No Description Info</desc>
+  </programme>
+  <programme channel="live.a1041487.ch1.dragon" start="20251102180000 +0100" stop="20251103000000 +0100">
     <title>Vivez en direct les évènements de CANAL+</title>
     <desc> No Description Info</desc>
   </programme>
@@ -20232,6 +20428,10 @@ Una agente del FBI viaja a Washington en un avión que es secuestrado en pleno v
   </programme>
   <programme channel="live.adab677a.ch1.dragon" start="20251102201500 +0100" stop="20251102211500 +0100">
     <title>Ökölvívás - Mickey Ward kiütései</title>
+    <desc> No Description Info</desc>
+  </programme>
+  <programme channel="live.adab677a.ch1.dragon" start="20251102211500 +0100" stop="20251102234500 +0100">
+    <title>Labdarúgás: Portugál bajnokság - 10. forduló FC Porto - Braga</title>
     <desc> No Description Info</desc>
   </programme>
   <programme channel="live.ae15c32b.ch25.dragon" start="20251101001000 +0100" stop="20251101010500 +0100">
@@ -20440,6 +20640,10 @@ Una agente del FBI viaja a Washington en un avión que es secuestrado en pleno v
   </programme>
   <programme channel="live.ae15c32b.ch25.dragon" start="20251102220000 +0100" stop="20251102230500 +0100">
     <title>Top Gear 26, ep. 1</title>
+    <desc>Top Gear: Series 026</desc>
+  </programme>
+  <programme channel="live.ae15c32b.ch25.dragon" start="20251102230500 +0100" stop="20251103000500 +0100">
+    <title>Top Gear 26, ep. 2</title>
     <desc>Top Gear: Series 026</desc>
   </programme>
   <programme channel="live.71e53721.ch27.dragon" start="20251101013000 +0100" stop="20251101023000 +0100">
@@ -20966,6 +21170,10 @@ Una agente del FBI viaja a Washington en un avión que es secuestrado en pleno v
     <title>Posveta zvijezdama</title>
     <desc>Boksači, nogometaši, košarkaši... Najbolji sportaši svih vremena, iz svih sportova. Na istom mjestu, u isto vrijeme, kako ih usporediti i kako napraviti vječne liste. Netko će probati ono o čemu se...</desc>
   </programme>
+  <programme channel="live.be14f0b6.ch8.dragon" start="20251102224500 +0100" stop="20251103003000 +0100">
+    <title>Nogomet - Bundesliga: Koln - Hamburg</title>
+    <desc>Nogometna Bundesliga najviši je rang natjecanja u Njemačkoj koja od 1963. godine i svog osnutka visokom kvalitetom igre oduševljava sve nogometne poklonike diljem svijeta.</desc>
+  </programme>
   <programme channel="live.c276a04b.ch0.dragon" start="20251101000000 +0100" stop="20251101030000 +0100">
     <title>Arena Sport 1x2</title>
     <desc>Arena Sport 1x2 prati uzbuđenja i promene rezultata na svim terenima širom planete. Pored direktnih prenosa, ovaj kanal je pravo mesto na kome prvi možete da saznate kada lopta uđe u mrežu ili prođe kroz mrežicu. Nesvakidašnji kanal na ovim prostorima, po uzoru na slične u Engleskoj, Francuskoj i Nemačkoj. Posebna grafika, stanje na tabelama, trenutna forma… Specijalne dnevne emisije, analize, poznati gosti. Tu su naravno direktni prenosi, multiprenosi utakmica koje počinju u isto vreme, atraktivne reprize… Ukoliko vas zanimaju najnoviji rezultati - Arena Sport 1x2 je pravo mesto za vas.</desc>
@@ -21053,6 +21261,10 @@ Una agente del FBI viaja a Washington en un avión que es secuestrado en pleno v
   <programme channel="live.c276a04b.ch0.dragon" start="20251102191500 +0100" stop="20251102220000 +0100">
     <title>Američki fudbal: NFL RedZone</title>
     <desc>Emisija posvećena Nacionalnoj fudbalskoj ligi, najvećoj profesionalnoj ligi američkog fudbala koja je osnovana 1920. godine. Saznajte sve novitete o timovima, igračima i dešavanjima van terena.</desc>
+  </programme>
+  <programme channel="live.c276a04b.ch0.dragon" start="20251102220000 +0100" stop="20251103000000 +0100">
+    <title>Arena Sport 1x2</title>
+    <desc>Arena Sport 1x2 prati uzbuđenja i promene rezultata na svim terenima širom planete. Pored direktnih prenosa, ovaj kanal je pravo mesto na kome prvi možete da saznate kada lopta uđe u mrežu ili prođe kroz mrežicu. Nesvakidašnji kanal na ovim prostorima, po uzoru na slične u Engleskoj, Francuskoj i Nemačkoj. Posebna grafika, stanje na tabelama, trenutna forma… Specijalne dnevne emisije, analize, poznati gosti. Tu su naravno direktni prenosi, multiprenosi utakmica koje počinju u isto vreme, atraktivne reprize… Ukoliko vas zanimaju najnoviji rezultati - Arena Sport 1x2 je pravo mesto za vas.</desc>
   </programme>
   <programme channel="live.924e41a7.ch5.dragon" start="20251101000000 +0100" stop="20251101020000 +0100">
     <title>Chelsea - Ajax</title>
@@ -21270,6 +21482,14 @@ Una agente del FBI viaja a Washington en un avión que es secuestrado en pleno v
     <title>Uživo: Estudiantes - Boca Juniors</title>
     <desc>ARGENTINSKA LIGA.</desc>
   </programme>
+  <programme channel="live.924e41a7.ch5.dragon" start="20251102220000 +0100" stop="20251103000000 +0100">
+    <title>Copenhagen - Borussia Dortmund</title>
+    <desc>UEFA LIGA ŠAMPIONA.</desc>
+  </programme>
+  <programme channel="live.924e41a7.ch6.dragon" start="20251102220000 +0100" stop="20251103000000 +0100">
+    <title>Copenhagen - Borussia Dortmund</title>
+    <desc>UEFA LIGA ŠAMPIONA.</desc>
+  </programme>
   <programme channel="live.d1eaa7f7.ch0.dragon" start="20251101000000 +0100" stop="20251101020000 +0100">
     <title>Hokej Na Ledu – Nhl: Tampa Bay – Las Vegas</title>
     <desc>Hokejaški spektakl očekuje nas 26. listopada 2025., kada će Tampa Bay ugostiti Vegas Golden Knightse na ledu Amalie Arene. Dvoboj dviju jakih momčadi obećava uzbuđenje i borbu do zadnje sekunde.</desc>
@@ -21388,6 +21608,10 @@ Sherman Griffin.</desc>
   <programme channel="live.d1eaa7f7.ch0.dragon" start="20251102200000 +0100" stop="20251102220000 +0100">
     <title>Košarka – Aba Liga: Spartak – Crvena Zvezda</title>
     <desc>ABA Liga 2025/2026 započinje 3. listopada 2025. godine, kada su na rasporedu prve utakmice po skupinama, a završava finalnom utakmicom u svibnju 2026. godine.</desc>
+  </programme>
+  <programme channel="live.d1eaa7f7.ch0.dragon" start="20251102220000 +0100" stop="20251103000000 +0100">
+    <title>Nogomet – Copa Libertadores: Palmeiras – Ldu Quito</title>
+    <desc>Palmeiras i LDU Quito odmjerit će snage 31. listopada 2025. u prvom dvomeču polufinala Kupa Libertadores. Tko će slaviti na stadionu Rodrigo Paz? Susret počinje u 01:30.</desc>
   </programme>
   <programme channel="live.924e41a7.ch7.dragon" start="20251101000000 +0100" stop="20251101030000 +0100">
     <title>Live NHL Ice Hockey - NY Islanders at Washington</title>
@@ -21813,6 +22037,10 @@ Sherman Griffin.</desc>
     <title>Premier League. West Ham United v Newcastle United.</title>
     <desc>Action from the Premier League. | West Ham United v Newcastle United | Category: Football (02/11/2025)</desc>
   </programme>
+  <programme channel="live.04016406.ch38.dragon" start="20251102233000 +0100" stop="20251103000000 +0100">
+    <title>Premier League. Manchester City v Bournemouth.</title>
+    <desc>Action from the Premier League. | Manchester City v Bournemouth | Category: Football (02/11/2025)</desc>
+  </programme>
   <programme channel="live.924e41a7.ch8.dragon" start="20251101000000 +0100" stop="20251101010000 +0100">
     <title>Campeonato Brasileiro : Bragantino x Vasco</title>
     <desc>Pela rodada 30, o Bragantino enfrenta o Vasco no Estádio Cícero de Souza Marques, em Bragança Paulista, SP. O Massa Bruta ganhou só uma de suas oito partidas anteriores, enquanto o Cruzmaltino venceu cinco dos seis últimos jogos que disputou.</desc>
@@ -22024,6 +22252,10 @@ Sherman Griffin.</desc>
   <programme channel="live.ae15c32b.ch27.dragon" start="20251102224500 +0100" stop="20251102234500 +0100">
     <title>Serie A Football. Hellas Verona v Internazionale.</title>
     <desc>Verona and Inter go head-to-head at Marcantonio Bentegodi. | Hellas Verona v Internazionale | Category: Football (02/11/2025)</desc>
+  </programme>
+  <programme channel="live.ae15c32b.ch27.dragon" start="20251102234500 +0100" stop="20251103004500 +0100">
+    <title>FA Cup Football. First Round.</title>
+    <desc>Action from the Emirates FA Cup. | First Round | Category: Football (02/11/2025)</desc>
   </programme>
   <programme channel="live.7039c3f5.ch36.dragon" start="20251101020000 +0100" stop="20251101040000 +0100">
     <title>Basketball: Lega Basket Serie A. Basket Napoli - Reggiana.</title>
